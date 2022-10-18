@@ -1,0 +1,775 @@
+﻿admin2Name_en,admin2Pcode,admin2RefName,admin2AltName1_en,admin2AltName2_en,SenDist_en,SenDistPcode,admin1Name_en,admin1Pcode,admin0Name_en,admin0Pcode,Population2016
+Aba North,NG001001,Aba North,<Null>,<Null>,Abia South,NG00103,Abia,NG001,Nigeria,NG,138237
+Aba South,NG001002,Aba South,<Null>,<Null>,Abia South,NG00103,Abia,NG001,Nigeria,NG,545102
+Abadam,NG008001,Abadam,<Null>,<Null>,Borno North,NG00802,Borno,NG008,Nigeria,NG,136810
+Abaji,NG015001,Abaji,<Null>,<Null>,Federal Capital Territory,NG01501,Federal Capital Territory,NG015,Nigeria,NG,124635
+Abak,NG003001,Abak,<Null>,<Null>,Akwa Ibom North West,NG00302,Akwa Ibom,NG003,Nigeria,NG,189947
+Abakaliki,NG011001,Abakaliki,<Null>,<Null>,Ebonyi North,NG01103,Ebonyi,NG011,Nigeria,NG,196830
+Abeokuta North,NG028001,Abeokuta North,<Null>,<Null>,Ogun Central,NG02801,Ogun,NG028,Nigeria,NG,272627
+Abeokuta South,NG028002,Abeokuta South,<Null>,<Null>,Ogun Central,NG02801,Ogun,NG028,Nigeria,NG,338910
+Abi,NG009001,Abi,<Null>,<Null>,Cross River Central,NG00901,Cross River,NG009,Nigeria,NG,189484
+Aboh-Mbaise,NG017001,Aboh-Mbaise,<Null>,<Null>,Imo East,NG01701,Imo,NG017,Nigeria,NG,262697
+Abua/Odual,NG033001,Abua/Odual,<Null>,<Null>,Rivers West,NG03303,Rivers,NG033,Nigeria,NG,386461
+Abuja Municipal,NG015002,Abuja Municipal,<Null>,<Null>,Federal Capital Territory,NG01501,Federal Capital Territory,NG015,Nigeria,NG,1660338
+Adavi,NG023001,Adavi,<Null>,<Null>,Kogi Central,NG02301,Kogi,NG023,Nigeria,NG,266874
+Ado,NG007001,Ado,<Null>,<Null>,Benue South,NG00703,Benue,NG007,Nigeria,NG,236105
+Ado-Odo/Ota,NG028003,Ado-Odo/Ota,<Null>,<Null>,Ogun West,NG02803,Ogun,NG028,Nigeria,NG,713040
+Ado Ekiti,NG013001,Ado Ekiti,<Null>,<Null>,Ekiti Central,NG01302,Ekiti,NG013,Nigeria,NG,410855
+Afijio,NG031001,Afijio,<Null>,<Null>,Oyo Central,NG03101,Oyo,NG031,Nigeria,NG,183233
+Afikpo North,NG011002,Afikpo North,<Null>,<Null>,Ebonyi South,NG01101,Ebonyi,NG011,Nigeria,NG,203171
+Afikpo South,NG011003,Afikpo South,<Null>,<Null>,Ebonyi South,NG01101,Ebonyi,NG011,Nigeria,NG,203769
+Agaie,NG027001,Agaie,<Null>,<Null>,Niger South,NG02703,Niger,NG027,Nigeria,NG,181504
+Agatu,NG007002,Agatu,<Null>,<Null>,Benue South,NG00703,Benue,NG007,Nigeria,NG,152478
+Agege,NG025001,Agege,<Null>,<Null>,Lagos West,NG02501,Lagos,NG025,Nigeria,NG,617548
+Aguata,NG004001,Aguata,<Null>,<Null>,Anambra South,NG00403,Anambra,NG004,Nigeria,NG,480223
+Agwara,NG027002,Agwara,<Null>,<Null>,Niger North,NG02702,Niger,NG027,Nigeria,NG,78406
+Ahiazu-Mbaise,NG017002,Ahiazu-Mbaise,<Null>,<Null>,Imo East,NG01701,Imo,NG017,Nigeria,NG,229466
+Ahoada East,NG033002,Ahoada East,<Null>,<Null>,Rivers West,NG03303,Rivers,NG033,Nigeria,NG,227717
+Ahoada West,NG033003,Ahoada West,<Null>,<Null>,Rivers West,NG03303,Rivers,NG033,Nigeria,NG,340626
+Aiyedade,NG030001,Aiyedade,<Null>,<Null>,Osun West,NG03003,Osun,NG030,Nigeria,NG,201927
+Aiyedire,NG030002,Aiyedire,<Null>,<Null>,Osun West,NG03003,Osun,NG030,Nigeria,NG,101836
+Aiyekire (Gbonyin),NG013002,Aiyekire (Gbonyin),<Null>,<Null>,Ekiti South,NG01301,Ekiti,NG013,Nigeria,NG,197283
+Ajaokuta,NG023002,Ajaokuta,<Null>,<Null>,Kogi Central,NG02301,Kogi,NG023,Nigeria,NG,161450
+Ajeromi-Ifelodun,NG025002,Ajeromi-Ifelodun,<Null>,<Null>,Lagos West,NG02501,Lagos,NG025,Nigeria,NG,918530
+Ajingi,NG020001,Ajingi,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,235805
+Akamkpa,NG009002,Akamkpa,<Null>,<Null>,Cross River South,NG00903,Cross River,NG009,Nigeria,NG,197758
+Akinyele,NG031002,Akinyele,<Null>,<Null>,Oyo Central,NG03101,Oyo,NG031,Nigeria,NG,288641
+Akko,NG016001,Akko,<Null>,<Null>,Gombe Central,NG01601,Gombe,NG016,Nigeria,NG,453627
+Akoko-Edo,NG012001,Akoko-Edo,<Null>,<Null>,Edo North,NG01203,Edo,NG012,Nigeria,NG,337091
+Akoko North East,NG029001,Akoko North East,<Null>,<Null>,Ondo North,NG02902,Ondo,NG029,Nigeria,NG,231521
+Akoko North West,NG029002,Akoko North West,<Null>,<Null>,Ondo North,NG02902,Ondo,NG029,Nigeria,NG,282182
+Akoko South East,NG029003,Akoko South East,<Null>,<Null>,Ondo North,NG02902,Ondo,NG029,Nigeria,NG,108793
+Akoko South West,NG029004,Akoko South West,<Null>,<Null>,Ondo North,NG02902,Ondo,NG029,Nigeria,NG,302897
+Akpabuyo,NG009003,Akpabuyo,<Null>,<Null>,Cross River South,NG00903,Cross River,NG009,Nigeria,NG,355140
+Akuku Toru,NG033004,Akuku Toru,<Null>,<Null>,Rivers West,NG03303,Rivers,NG033,Nigeria,NG,213049
+Akure North,NG029005,Akure North,<Null>,<Null>,Ondo Central,NG02901,Ondo,NG029,Nigeria,NG,173681
+Akure South,NG029006,Akure South,<Null>,<Null>,Ondo Central,NG02901,Ondo,NG029,Nigeria,NG,466200
+Akwanga,NG026001,Akwanga,<Null>,<Null>,Nassarawa North,NG02602,Nasarawa,NG026,Nigeria,NG,149715
+Albasu,NG020002,Albasu,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,257493
+Aleiro,NG022001,Aleiro,<Null>,<Null>,Kebbi Central,NG02201,Kebbi,NG022,Nigeria,NG,87827
+Alimosho,NG025003,Alimosho,<Null>,<Null>,Lagos West,NG02501,Lagos,NG025,Nigeria,NG,1715554
+Alkaleri,NG005001,Alkaleri,<Null>,<Null>,Bauchi South,NG00503,Bauchi,NG005,Nigeria,NG,449876
+Amuwo-Odofin,NG025004,Amuwo-Odofin,<Null>,<Null>,Lagos West,NG02501,Lagos,NG025,Nigeria,NG,427193
+Anambra East,NG004002,Anambra East,<Null>,<Null>,Anambra North,NG00402,Anambra,NG004,Nigeria,NG,198916
+Anambra West,NG004003,Anambra West,<Null>,<Null>,Anambra North,NG00402,Anambra,NG004,Nigeria,NG,217188
+Anaocha,NG004004,Anaocha,<Null>,<Null>,Anambra Central,NG00401,Anambra,NG004,Nigeria,NG,369732
+Andoni,NG033005,Andoni,<Null>,<Null>,Rivers South East,NG03302,Rivers,NG033,Nigeria,NG,288163
+Aninri,NG014001,Aninri,<Null>,<Null>,Enugu West,NG01403,Enugu,NG014,Nigeria,NG,176500
+Aniocha North,NG010001,Aniocha North,<Null>,<Null>,Delta North,NG01002,Delta,NG010,Nigeria,NG,140593
+Aniocha South,NG010002,Aniocha South,<Null>,<Null>,Delta North,NG01002,Delta,NG010,Nigeria,NG,188785
+Anka,NG037001,Anka,<Null>,<Null>,Zamfara West,NG03703,Zamfara,NG037,Nigeria,NG,191036
+Ankpa,NG023003,Ankpa,<Null>,<Null>,Kogi East,NG02302,Kogi,NG023,Nigeria,NG,352877
+Apa,NG007003,Apa,<Null>,<Null>,Benue South,NG00703,Benue,NG007,Nigeria,NG,127719
+Apapa,NG025005,Apapa,<Null>,<Null>,Lagos Central,NG02502,Lagos,NG025,Nigeria,NG,291846
+Ardo-Kola,NG035001,Ardo-Kola,<Null>,<Null>,Taraba North,NG03502,Taraba,NG035,Nigeria,NG,113742
+Arewa-Dandi,NG022002,Arewa-Dandi,<Null>,<Null>,Kebbi North,NG02202,Kebbi,NG022,Nigeria,NG,244992
+Argungu,NG022003,Argungu,<Null>,<Null>,Kebbi North,NG02202,Kebbi,NG022,Nigeria,NG,260240
+Arochukwu,NG001003,Arochukwu,<Null>,<Null>,Abia North,NG00102,Abia,NG001,Nigeria,NG,218896
+Asa,NG024001,Asa,<Null>,<Null>,Kwara Central,NG02401,Kwara,NG024,Nigeria,NG,166881
+Asari-Toru,NG033006,Asari-Toru,<Null>,<Null>,Rivers West,NG03303,Rivers,NG033,Nigeria,NG,300578
+Askira/Uba,NG008002,Askira/Uba,<Null>,<Null>,Borno South,NG00803,Borno,NG008,Nigeria,NG,188583
+Atakumosa East,NG030003,Atakumosa East,<Null>,<Null>,Osun East,NG03002,Osun,NG030,Nigeria,NG,102308
+Atakumosa West,NG030004,Atakumosa West,<Null>,<Null>,Osun East,NG03002,Osun,NG030,Nigeria,NG,92165
+Atiba,NG031003,Atiba,<Null>,<Null>,Oyo Central,NG03101,Oyo,NG031,Nigeria,NG,231753
+Atigbo,NG031004,Atigbo,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,151302
+Augie,NG022004,Augie,<Null>,<Null>,Kebbi North,NG02202,Kebbi,NG022,Nigeria,NG,156139
+Auyo,NG018001,Auyo,<Null>,<Null>,Jigawa North-East,NG01801,Jigawa,NG018,Nigeria,NG,172733
+Awe,NG026002,Awe,<Null>,<Null>,Nassarawa South,NG02601,Nasarawa,NG026,Nigeria,NG,148586
+Awgu,NG014002,Awgu,<Null>,<Null>,Enugu West,NG01403,Enugu,NG014,Nigeria,NG,261515
+Awka North,NG004005,Awka North,<Null>,<Null>,Anambra Central,NG00401,Anambra,NG004,Nigeria,NG,146086
+Awka South,NG004006,Awka South,<Null>,<Null>,Anambra Central,NG00401,Anambra,NG004,Nigeria,NG,245253
+Ayamelum,NG004007,Ayamelum,<Null>,<Null>,Anambra North,NG00402,Anambra,NG004,Nigeria,NG,205505
+Babura,NG018002,Babura,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,272315
+Badagry,NG025006,Badagry,<Null>,<Null>,Lagos West,NG02501,Lagos,NG025,Nigeria,NG,323709
+Bade,NG036001,Bade,<Null>,<Null>,Yobe North,NG03602,Yobe,NG036,Nigeria,NG,192508
+Bagudo,NG022005,Bagudo,<Null>,<Null>,Kebbi North,NG02202,Kebbi,NG022,Nigeria,NG,316596
+Bagwai,NG020003,Bagwai,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,220517
+Bakassi,NG009005,Bakassi,<Null>,<Null>,Cross River South,NG00903,Cross River,NG009,Nigeria,NG,42378
+Bakori,NG021001,Bakori,<Null>,<Null>,Katsina South,NG02103,Katsina,NG021,Nigeria,NG,197154
+Bakura,NG037002,Bakura,<Null>,<Null>,Zamfara West,NG03703,Zamfara,NG037,Nigeria,NG,250953
+Balanga,NG016002,Balanga,<Null>,<Null>,Gombe South,NG01603,Gombe,NG016,Nigeria,NG,285384
+Bali,NG035002,Bali,<Null>,<Null>,Taraba Central,NG03501,Taraba,NG035,Nigeria,NG,273406
+Bama,NG008003,Bama,<Null>,<Null>,Borno Central,NG00801,Borno,NG008,Nigeria,NG,368705
+Barikin Ladi,NG032001,Barikin Ladi,<Null>,<Null>,Plateau North,NG03202,Plateau,NG032,Nigeria,NG,225405
+Baruten,NG024002,Baruten,<Null>,<Null>,Kwara North,NG02402,Kwara,NG024,Nigeria,NG,276463
+Bassa,NG023004,Bassa,<Null>,<Null>,Kogi East,NG02302,Kogi,NG023,Nigeria,NG,184776
+Bassa,NG032002,Bassa,<Null>,<Null>,Plateau North,NG03202,Plateau,NG032,Nigeria,NG,240313
+Batagarawa,NG021002,Batagarawa,<Null>,<Null>,Katsina Central,NG02101,Katsina,NG021,Nigeria,NG,243619
+Batsari,NG021003,Batsari,<Null>,<Null>,Katsina Central,NG02101,Katsina,NG021,Nigeria,NG,275828
+Bauchi,NG005002,Bauchi,<Null>,<Null>,Bauchi South,NG00503,Bauchi,NG005,Nigeria,NG,674369
+Baure,NG021004,Baure,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,260580
+Bayo,NG008004,Bayo,<Null>,<Null>,Borno South,NG00803,Borno,NG008,Nigeria,NG,107856
+Bebeji,NG020004,Bebeji,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,255741
+Bekwara,NG009006,Bekwara,<Null>,<Null>,Cross River North,NG00902,Cross River,NG009,Nigeria,NG,138476
+Bende,NG001004,Bende,<Null>,<Null>,Abia North,NG00102,Abia,NG001,Nigeria,NG,247068
+Biase,NG009007,Biase,<Null>,<Null>,Cross River North,NG00902,Cross River,NG009,Nigeria,NG,221388
+Bichi,NG020005,Bichi,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,375230
+Bida,NG027003,Bida,<Null>,<Null>,Niger South,NG02703,Niger,NG027,Nigeria,NG,256988
+Billiri,NG016003,Billiri,<Null>,<Null>,Gombe South,NG01603,Gombe,NG016,Nigeria,NG,271414
+Bindawa,NG021005,Bindawa,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,201093
+Binji,NG034001,Binji,<Null>,<Null>,Sokoto North,NG03402,Sokoto,NG034,Nigeria,NG,138624
+Biriniwa,NG018003,Biriniwa,<Null>,<Null>,Jigawa North-East,NG01801,Jigawa,NG018,Nigeria,NG,186248
+Birni Kudu,NG018004,Birni Kudu,<Null>,<Null>,Jigawa South-West,NG01803,Jigawa,NG018,Nigeria,NG,410071
+Birnin-Gwari,NG019001,Birnin-Gwari,<Null>,<Null>,Kaduna Central,NG01901,Kaduna,NG019,Nigeria,NG,333092
+Birnin Kebbi,NG022006,Birnin Kebbi,<Null>,<Null>,Kebbi Central,NG02201,Kebbi,NG022,Nigeria,NG,357337
+Birnin Magaji,NG037003,Birnin Magaji,<Null>,<Null>,Zamfara North,NG03702,Zamfara,NG037,Nigeria,NG,239827
+Biu,NG008005,Biu,<Null>,<Null>,Borno South,NG00803,Borno,NG008,Nigeria,NG,240452
+Bodinga,NG034002,Bodinga,<Null>,<Null>,Sokoto South,NG03403,Sokoto,NG034,Nigeria,NG,231517
+Bogoro,NG005003,Bogoro,<Null>,<Null>,Bauchi South,NG00503,Bauchi,NG005,Nigeria,NG,115008
+Boki,NG009008,Boki,<Null>,<Null>,Cross River Central,NG00901,Cross River,NG009,Nigeria,NG,243579
+Bokkos,NG032003,Bokkos,<Null>,<Null>,Plateau Central,NG03201,Plateau,NG032,Nigeria,NG,229504
+Boluwaduro,NG030005,Boluwaduro,<Null>,<Null>,Osun Central,NG03001,Osun,NG030,Nigeria,NG,95028
+Bomadi,NG010003,Bomadi,<Null>,<Null>,Delta South,NG01003,Delta,NG010,Nigeria,NG,116335
+Bonny,NG033007,Bonny,<Null>,<Null>,Rivers West,NG03303,Rivers,NG033,Nigeria,NG,294102
+Borgu,NG027004,Borgu,<Null>,<Null>,Niger North,NG02702,Niger,NG027,Nigeria,NG,234843
+Boripe,NG030006,Boripe,<Null>,<Null>,Osun Central,NG03001,Osun,NG030,Nigeria,NG,187112
+Bosso,NG027005,Bosso,<Null>,<Null>,Niger East,NG02701,Niger,NG027,Nigeria,NG,201240
+Brass,NG006001,Brass,<Null>,<Null>,Bayelsa East,NG00602,Bayelsa,NG006,Nigeria,NG,242150
+Buji,NG018005,Buji,<Null>,<Null>,Jigawa South-West,NG01803,Jigawa,NG018,Nigeria,NG,127417
+Bukkuyum,NG037004,Bukkuyum,<Null>,<Null>,Zamfara West,NG03703,Zamfara,NG037,Nigeria,NG,284154
+Bungudu,NG037005,Bungudu,<Null>,<Null>,Zamfara Central,NG03701,Zamfara,NG037,Nigeria,NG,346298
+Bunkure,NG020006,Bunkure,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,231410
+Bunza,NG022007,Bunza,<Null>,<Null>,Kebbi Central,NG02201,Kebbi,NG022,Nigeria,NG,161696
+Bursari,NG036002,Bursari,<Null>,<Null>,Yobe East,NG03601,Yobe,NG036,Nigeria,NG,150286
+Buruku,NG007004,Buruku,<Null>,<Null>,Benue North West,NG00702,Benue,NG007,Nigeria,NG,268890
+Burutu,NG010004,Burutu,<Null>,<Null>,Delta South,NG01003,Delta,NG010,Nigeria,NG,281513
+Bwari,NG015003,Bwari,<Null>,<Null>,Federal Capital Territory,NG01501,Federal Capital Territory,NG015,Nigeria,NG,484551
+Calabar-Municipal,NG009010,Calabar-Municipal,<Null>,<Null>,Cross River South,NG00903,Cross River,NG009,Nigeria,NG,234747
+Calabar South,NG009009,Calabar South,<Null>,<Null>,Cross River South,NG00903,Cross River,NG009,Nigeria,NG,250761
+Chanchaga,NG027006,Chanchaga,<Null>,<Null>,Niger East,NG02701,Niger,NG027,Nigeria,NG,275080
+Charanchi,NG021006,Charanchi,<Null>,<Null>,Katsina Central,NG02101,Katsina,NG021,Nigeria,NG,181634
+Chibok,NG008006,Chibok,<Null>,<Null>,Borno South,NG00803,Borno,NG008,Nigeria,NG,90276
+Chikun,NG019002,Chikun,<Null>,<Null>,Kaduna Central,NG01901,Kaduna,NG019,Nigeria,NG,486050
+Dala,NG020007,Dala,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,567081
+Damaturu,NG036003,Damaturu,<Null>,<Null>,Yobe South,NG03603,Yobe,NG036,Nigeria,NG,121213
+Damban,NG005004,Damban,<Null>,<Null>,Bauchi Central,NG00501,Bauchi,NG005,Nigeria,NG,206106
+Dambatta,NG020008,Dambatta,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,281617
+Damboa,NG008007,Damboa,<Null>,<Null>,Borno South,NG00803,Borno,NG008,Nigeria,NG,316246
+Dan Musa,NG021007,Dan Musa,<Null>,<Null>,Katsina Central,NG02101,Katsina,NG021,Nigeria,NG,150060
+Dandi,NG022008,Dandi,<Null>,<Null>,Kebbi North,NG02202,Kebbi,NG022,Nigeria,NG,192065
+Dandume,NG021008,Dandume,<Null>,<Null>,Katsina South,NG02103,Katsina,NG021,Nigeria,NG,192360
+Dange-Shuni,NG034003,Dange-Shuni,<Null>,<Null>,Sokoto South,NG03403,Sokoto,NG034,Nigeria,NG,256780
+Danja,NG021009,Danja,<Null>,<Null>,Katsina South,NG02103,Katsina,NG021,Nigeria,NG,165914
+Darazo,NG005005,Darazo,<Null>,<Null>,Bauchi Central,NG00501,Bauchi,NG005,Nigeria,NG,343592
+Dass,NG005006,Dass,<Null>,<Null>,Bauchi South,NG00503,Bauchi,NG005,Nigeria,NG,122830
+Daura,NG021010,Daura,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,290008
+Dawakin Kudu,NG020009,Dawakin Kudu,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,305207
+Dawakin Tofa,NG020010,Dawakin Tofa,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,335656
+Degema,NG033008,Degema,<Null>,<Null>,Rivers West,NG03303,Rivers,NG033,Nigeria,NG,341101
+Dekina,NG023005,Dekina,<Null>,<Null>,Kogi East,NG02302,Kogi,NG023,Nigeria,NG,343584
+Demsa,NG002001,Demsa,<Null>,<Null>,Adamawa South,NG00203,Adamawa,NG002,Nigeria,NG,235871
+Dikwa,NG008008,Dikwa,<Null>,<Null>,Borno Central,NG00801,Borno,NG008,Nigeria,NG,144634
+Doguwa,NG020011,Doguwa,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,204720
+Doma,NG026003,Doma,<Null>,<Null>,Nassarawa South,NG02601,Nasarawa,NG026,Nigeria,NG,184266
+Donga,NG035003,Donga,<Null>,<Null>,Taraba South,NG03503,Taraba,NG035,Nigeria,NG,175494
+Dukku,NG016004,Dukku,<Null>,<Null>,Gombe North,NG01602,Gombe,NG016,Nigeria,NG,278189
+Dunukofia,NG004008,Dunukofia,<Null>,<Null>,Anambra Central,NG00401,Anambra,NG004,Nigeria,NG,125036
+Dutse,NG018006,Dutse,<Null>,<Null>,Jigawa South-West,NG01803,Jigawa,NG018,Nigeria,NG,322096
+Dutsi,NG021011,Dutsi,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,158417
+Dutsin-Ma,NG021012,Dutsin-Ma,<Null>,<Null>,Katsina Central,NG02101,Katsina,NG021,Nigeria,NG,223947
+Eastern Obolo,NG003002,Eastern Obolo,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,82680
+Ebonyi,NG011004,Ebonyi,<Null>,<Null>,Ebonyi North,NG01103,Ebonyi,NG011,Nigeria,NG,164545
+Edati,NG027007,Edati,<Null>,<Null>,Niger South,NG02703,Niger,NG027,Nigeria,NG,218941
+Ede North,NG030007,Ede North,<Null>,<Null>,Osun West,NG03003,Osun,NG030,Nigeria,NG,112558
+Ede South,NG030008,Ede South,<Null>,<Null>,Osun West,NG03003,Osun,NG030,Nigeria,NG,102090
+Edu,NG024003,Edu,<Null>,<Null>,Kwara North,NG02402,Kwara,NG024,Nigeria,NG,265917
+Efon,NG013003,Efon,<Null>,<Null>,Ekiti Central,NG01302,Ekiti,NG013,Nigeria,NG,115741
+Egbado North,NG028004,Egbado North,<Null>,<Null>,Ogun West,NG02803,Ogun,NG028,Nigeria,NG,246217
+Egbado South,NG028005,Egbado South,<Null>,<Null>,Ogun West,NG02803,Ogun,NG028,Nigeria,NG,228646
+Egbeda,NG031005,Egbeda,<Null>,<Null>,Oyo Central,NG03101,Oyo,NG031,Nigeria,NG,384529
+Egbedore,NG030009,Egbedore,<Null>,<Null>,Osun West,NG03003,Osun,NG030,Nigeria,NG,99942
+Egor,NG012002,Egor,<Null>,<Null>,Edo South,NG01201,Edo,NG012,Nigeria,NG,437133
+Ehime-Mbano,NG017003,Ehime-Mbano,<Null>,<Null>,Imo North,NG01702,Imo,NG017,Nigeria,NG,175798
+Ejigbo,NG030010,Ejigbo,<Null>,<Null>,Osun West,NG03003,Osun,NG030,Nigeria,NG,178094
+Ekeremor,NG006002,Ekeremor,<Null>,<Null>,Bayelsa West,NG00603,Bayelsa,NG006,Nigeria,NG,353650
+Eket,NG003003,Eket,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,235651
+Ekiti,NG024004,Ekiti,<Null>,<Null>,Kwara South,NG02403,Kwara,NG024,Nigeria,NG,72396
+Ekiti East,NG013004,Ekiti East,<Null>,<Null>,Ekiti South,NG01301,Ekiti,NG013,Nigeria,NG,183654
+Ekiti South West,NG013005,Ekiti South West,<Null>,<Null>,Ekiti South,NG01301,Ekiti,NG013,Nigeria,NG,220027
+Ekiti West,NG013006,Ekiti West,<Null>,<Null>,Ekiti Central,NG01302,Ekiti,NG013,Nigeria,NG,239483
+Ekwusigo,NG004009,Ekwusigo,<Null>,<Null>,Anambra South,NG00403,Anambra,NG004,Nigeria,NG,205272
+Eleme,NG033009,Eleme,<Null>,<Null>,Rivers South East,NG03302,Rivers,NG033,Nigeria,NG,260680
+Emohua,NG033010,Emohua,<Null>,<Null>,Rivers East,NG03301,Rivers,NG033,Nigeria,NG,275725
+Emure,NG013007,Emure,<Null>,<Null>,Ekiti South,NG01301,Ekiti,NG013,Nigeria,NG,124984
+Enugu East,NG014003,Enugu East,<Null>,<Null>,Enugu East,NG01402,Enugu,NG014,Nigeria,NG,368367
+Enugu North,NG014004,Enugu North,<Null>,<Null>,Enugu East,NG01402,Enugu,NG014,Nigeria,NG,323178
+Enugu South,NG014005,Enugu South,<Null>,<Null>,Enugu East,NG01402,Enugu,NG014,Nigeria,NG,262293
+Epe,NG025007,Epe,<Null>,<Null>,Lagos East,NG02503,Lagos,NG025,Nigeria,NG,243573
+Esan Central,NG012003,Esan Central,<Null>,<Null>,Edo Central,NG01202,Edo,NG012,Nigeria,NG,135436
+Esan North East,NG012004,Esan North East,<Null>,<Null>,Edo Central,NG01202,Edo,NG012,Nigeria,NG,153487
+Esan South East,NG012005,Esan South East,<Null>,<Null>,Edo Central,NG01202,Edo,NG012,Nigeria,NG,215701
+Esan West,NG012006,Esan West,<Null>,<Null>,Edo Central,NG01202,Edo,NG012,Nigeria,NG,161841
+Ese-Odo,NG029007,Ese-Odo,<Null>,<Null>,Ondo South,NG02903,Ondo,NG029,Nigeria,NG,204554
+Esit - Eket,NG003004,Esit - Eket,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,86993
+Essien Udim,NG003005,Essien Udim,<Null>,<Null>,Akwa Ibom North West,NG00302,Akwa Ibom,NG003,Nigeria,NG,263116
+Etche,NG033011,Etche,<Null>,<Null>,Rivers East,NG03301,Rivers,NG033,Nigeria,NG,340665
+Ethiope East,NG010005,Ethiope East,<Null>,<Null>,Delta Central,NG01001,Delta,NG010,Nigeria,NG,269598
+Ethiope West,NG010006,Ethiope West,<Null>,<Null>,Delta Central,NG01001,Delta,NG010,Nigeria,NG,273358
+Eti-Osa,NG025008,Eti-Osa,<Null>,<Null>,Lagos Central,NG02502,Lagos,NG025,Nigeria,NG,386401
+Etim Ekpo,NG003006,Etim Ekpo,<Null>,<Null>,Akwa Ibom North West,NG00302,Akwa Ibom,NG003,Nigeria,NG,143963
+Etinan,NG003007,Etinan,<Null>,<Null>,Akwa Ibom North East,NG00301,Akwa Ibom,NG003,Nigeria,NG,231182
+Etsako Central,NG012007,Etsako Central,<Null>,<Null>,Edo North,NG01203,Edo,NG012,Nigeria,NG,121630
+Etsako East,NG012008,Etsako East,<Null>,<Null>,Edo North,NG01203,Edo,NG012,Nigeria,NG,187761
+Etsako West,NG012009,Etsako West,<Null>,<Null>,Edo North,NG01203,Edo,NG012,Nigeria,NG,254139
+Etung,NG009011,Etung,<Null>,<Null>,Cross River Central,NG00901,Cross River,NG009,Nigeria,NG,104942
+Ewekoro,NG028006,Ewekoro,<Null>,<Null>,Ogun Central,NG02801,Ogun,NG028,Nigeria,NG,74689
+Ezeagu,NG014006,Ezeagu,<Null>,<Null>,Enugu West,NG01403,Enugu,NG014,Nigeria,NG,224009
+Ezinihitte,NG017004,Ezinihitte,<Null>,<Null>,Imo East,NG01701,Imo,NG017,Nigeria,NG,222337
+Ezza North,NG011005,Ezza North,<Null>,<Null>,Ebonyi Central,NG01102,Ebonyi,NG011,Nigeria,NG,188911
+Ezza South,NG011006,Ezza South,<Null>,<Null>,Ebonyi Central,NG01102,Ebonyi,NG011,Nigeria,NG,172806
+Fagge,NG020012,Fagge,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,269240
+Fakai,NG022009,Fakai,<Null>,<Null>,Kebbi South,NG02203,Kebbi,NG022,Nigeria,NG,161365
+Faskari,NG021013,Faskari,<Null>,<Null>,Katsina South,NG02103,Katsina,NG021,Nigeria,NG,258745
+Fika,NG036004,Fika,<Null>,<Null>,Yobe South,NG03603,Yobe,NG036,Nigeria,NG,188532
+Fufore,NG002002,Fufore,<Null>,<Null>,Adamawa Central,NG00201,Adamawa,NG002,Nigeria,NG,271250
+Funakaye,NG016005,Funakaye,<Null>,<Null>,Gombe North,NG01602,Gombe,NG016,Nigeria,NG,316988
+Fune,NG036005,Fune,<Null>,<Null>,Yobe South,NG03603,Yobe,NG036,Nigeria,NG,414207
+Funtua,NG021014,Funtua,<Null>,<Null>,Katsina South,NG02103,Katsina,NG021,Nigeria,NG,297729
+Gabasawa,NG020013,Gabasawa,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,285797
+Gada,NG034004,Gada,<Null>,<Null>,Sokoto East,NG03401,Sokoto,NG034,Nigeria,NG,327686
+Gagarawa,NG018007,Gagarawa,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,105201
+Gamawa,NG005007,Gamawa,<Null>,<Null>,Bauchi North,NG00502,Bauchi,NG005,Nigeria,NG,391104
+Ganjuwa,NG005008,Ganjuwa,<Null>,<Null>,Bauchi Central,NG00501,Bauchi,NG005,Nigeria,NG,383019
+Ganye,NG002003,Ganye,<Null>,<Null>,Adamawa South,NG00203,Adamawa,NG002,Nigeria,NG,214719
+Garki,NG018008,Garki,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,199208
+Garko,NG020014,Garko,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,220047
+Garum Mallam,NG020015,Garum Mallam,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,157749
+Gashaka,NG035004,Gashaka,<Null>,<Null>,Taraba Central,NG03501,Taraba,NG035,Nigeria,NG,114868
+Gassol,NG035005,Gassol,<Null>,<Null>,Taraba Central,NG03501,Taraba,NG035,Nigeria,NG,320271
+Gaya,NG020016,Gaya,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,272203
+Gbako,NG027008,Gbako,<Null>,<Null>,Niger South,NG02703,Niger,NG027,Nigeria,NG,174073
+Gboko,NG007005,Gboko,<Null>,<Null>,Benue North West,NG00702,Benue,NG007,Nigeria,NG,473757
+Geidam,NG036006,Geidam,<Null>,<Null>,Yobe East,NG03601,Yobe,NG036,Nigeria,NG,216627
+Gezawa,NG020017,Gezawa,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,381960
+Giade,NG005009,Giade,<Null>,<Null>,Bauchi North,NG00502,Bauchi,NG005,Nigeria,NG,214364
+Girei,NG002005,Girei,<Null>,<Null>,Adamawa Central,NG00201,Adamawa,NG002,Nigeria,NG,170108
+Giwa,NG019003,Giwa,<Null>,<Null>,Kaduna Central,NG01901,Kaduna,NG019,Nigeria,NG,378053
+Gokana,NG033012,Gokana,<Null>,<Null>,Rivers South East,NG03302,Rivers,NG033,Nigeria,NG,312498
+Gombe,NG016006,Gombe,<Null>,<Null>,Gombe North,NG01602,Gombe,NG016,Nigeria,NG,359837
+Gombi,NG002004,Gombi,<Null>,<Null>,Adamawa Central,NG00201,Adamawa,NG002,Nigeria,NG,191613
+Goronyo,NG034006,Goronyo,<Null>,<Null>,Sokoto East,NG03401,Sokoto,NG034,Nigeria,NG,240611
+Gubio,NG008009,Gubio,<Null>,<Null>,Borno North,NG00802,Borno,NG008,Nigeria,NG,208640
+Gudu,NG034007,Gudu,<Null>,<Null>,Sokoto North,NG03402,Sokoto,NG034,Nigeria,NG,126108
+Gujba,NG036007,Gujba,<Null>,<Null>,Yobe East,NG03601,Yobe,NG036,Nigeria,NG,179157
+Gulani,NG036008,Gulani,<Null>,<Null>,Yobe East,NG03601,Yobe,NG036,Nigeria,NG,142554
+Guma,NG007006,Guma,<Null>,<Null>,Benue North West,NG00702,Benue,NG007,Nigeria,NG,252890
+Gumel,NG018009,Gumel,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,140228
+Gummi,NG037006,Gummi,<Null>,<Null>,Zamfara West,NG03703,Zamfara,NG037,Nigeria,NG,274629
+Gurara,NG027009,Gurara,<Null>,<Null>,Niger East,NG02701,Niger,NG027,Nigeria,NG,124238
+Guri,NG018010,Guri,<Null>,<Null>,Jigawa North-East,NG01801,Jigawa,NG018,Nigeria,NG,150509
+Gusau,NG037007,Gusau,<Null>,<Null>,Zamfara Central,NG03701,Zamfara,NG037,Nigeria,NG,514462
+Guyuk,NG002006,Guyuk,<Null>,<Null>,Adamawa South,NG00203,Adamawa,NG002,Nigeria,NG,232644
+Guzamala,NG008010,Guzamala,<Null>,<Null>,Borno North,NG00802,Borno,NG008,Nigeria,NG,130621
+Gwadabawa,NG034005,Gwadabawa,<Null>,<Null>,Sokoto East,NG03401,Sokoto,NG034,Nigeria,NG,305368
+Gwagwalada,NG015004,Gwagwalada,<Null>,<Null>,Federal Capital Territory,NG01501,Federal Capital Territory,NG015,Nigeria,NG,336453
+Gwale,NG020018,Gwale,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,490277
+Gwandu,NG022010,Gwandu,<Null>,<Null>,Kebbi Central,NG02201,Kebbi,NG022,Nigeria,NG,201045
+Gwaram,NG018011,Gwaram,<Null>,<Null>,Jigawa South-West,NG01803,Jigawa,NG018,Nigeria,NG,356693
+Gwarzo,NG020019,Gwarzo,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,249143
+Gwer East,NG007007,Gwer East,<Null>,<Null>,Benue North West,NG00702,Benue,NG007,Nigeria,NG,215996
+Gwer West,NG007008,Gwer West,<Null>,<Null>,Benue North West,NG00702,Benue,NG007,Nigeria,NG,161218
+Gwiwa,NG018012,Gwiwa,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,162939
+Gwoza,NG008011,Gwoza,<Null>,<Null>,Borno South,NG00803,Borno,NG008,Nigeria,NG,377344
+Hadejia,NG018013,Hadejia,<Null>,<Null>,Jigawa North-East,NG01801,Jigawa,NG018,Nigeria,NG,138222
+Hawul,NG008012,Hawul,<Null>,<Null>,Borno South,NG00803,Borno,NG008,Nigeria,NG,164306
+Hong,NG002007,Hong,<Null>,<Null>,Adamawa Central,NG00201,Adamawa,NG002,Nigeria,NG,221313
+Ibadan North,NG031006,Ibadan North,<Null>,<Null>,Oyo South,NG03103,Oyo,NG031,Nigeria,NG,418973
+Ibadan North East,NG031007,Ibadan North East,<Null>,<Null>,Oyo South,NG03103,Oyo,NG031,Nigeria,NG,451207
+Ibadan North West,NG031008,Ibadan North West,<Null>,<Null>,Oyo South,NG03103,Oyo,NG031,Nigeria,NG,208717
+Ibadan South East,NG031009,Ibadan South East,<Null>,<Null>,Oyo South,NG03103,Oyo,NG031,Nigeria,NG,363324
+Ibadan South West,NG031010,Ibadan South West,<Null>,<Null>,Oyo South,NG03103,Oyo,NG031,Nigeria,NG,385911
+Ibaji,NG023006,Ibaji,<Null>,<Null>,Kogi East,NG02302,Kogi,NG023,Nigeria,NG,169116
+Ibarapa Central,NG031011,Ibarapa Central,<Null>,<Null>,Oyo South,NG03103,Oyo,NG031,Nigeria,NG,140633
+Ibarapa East,NG031012,Ibarapa East,<Null>,<Null>,Oyo South,NG03103,Oyo,NG031,Nigeria,NG,161455
+Ibarapa North,NG031013,Ibarapa North,<Null>,<Null>,Oyo South,NG03103,Oyo,NG031,Nigeria,NG,138056
+Ibeju/Lekki,NG025009,Ibeju/Lekki,<Null>,<Null>,Lagos East,NG02503,Lagos,NG025,Nigeria,NG,157739
+Ibeno,NG003008,Ibeno,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,102942
+Ibesikpo Asutan,NG003009,Ibesikpo Asutan,<Null>,<Null>,Akwa Ibom North East,NG00301,Akwa Ibom,NG003,Nigeria,NG,187231
+Ibi,NG035006,Ibi,<Null>,<Null>,Taraba South,NG03503,Taraba,NG035,Nigeria,NG,109991
+Ibiono Ibom,NG003010,Ibiono Ibom,<Null>,<Null>,Akwa Ibom North East,NG00301,Akwa Ibom,NG003,Nigeria,NG,258981
+Idah,NG023007,Idah,<Null>,<Null>,Kogi East,NG02302,Kogi,NG023,Nigeria,NG,105347
+Idanre,NG029008,Idanre,<Null>,<Null>,Ondo Central,NG02901,Ondo,NG029,Nigeria,NG,170298
+Ideato North,NG017005,Ideato North,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,212688
+Ideato South,NG017006,Ideato South,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,214665
+Idemili North,NG004010,Idemili North,<Null>,<Null>,Anambra Central,NG00401,Anambra,NG004,Nigeria,NG,558853
+Idemili South,NG004011,Idemili South,<Null>,<Null>,Anambra Central,NG00401,Anambra,NG004,Nigeria,NG,269426
+Ido,NG031014,Ido,<Null>,<Null>,Oyo South,NG03103,Oyo,NG031,Nigeria,NG,141018
+Ido-Osi,NG013008,Ido-Osi,<Null>,<Null>,Ekiti North,NG01303,Ekiti,NG013,Nigeria,NG,211822
+Ifako-Ijaye,NG025010,Ifako-Ijaye,<Null>,<Null>,Lagos West,NG02501,Lagos,NG025,Nigeria,NG,574501
+Ife Central,NG030011,Ife Central,<Null>,<Null>,Osun East,NG03002,Osun,NG030,Nigeria,NG,224568
+Ife East,NG030012,Ife East,<Null>,<Null>,Osun East,NG03002,Osun,NG030,Nigeria,NG,252540
+Ife North,NG030013,Ife North,<Null>,<Null>,Osun East,NG03002,Osun,NG030,Nigeria,NG,206361
+Ife South,NG030014,Ife South,<Null>,<Null>,Osun East,NG03002,Osun,NG030,Nigeria,NG,181715
+Ifedayo,NG030015,Ifedayo,<Null>,<Null>,Osun Central,NG03001,Osun,NG030,Nigeria,NG,49757
+Ifedore,NG029009,Ifedore,<Null>,<Null>,Ondo Central,NG02901,Ondo,NG029,Nigeria,NG,232733
+Ifelodun,NG024005,Ifelodun,<Null>,<Null>,Kwara South,NG02403,Kwara,NG024,Nigeria,NG,271953
+Ifelodun,NG030016,Ifelodun,<Null>,<Null>,Osun Central,NG03001,Osun,NG030,Nigeria,NG,129901
+Ifo,NG028007,Ifo,<Null>,<Null>,Ogun Central,NG02801,Ogun,NG028,Nigeria,NG,710701
+Igabi,NG019004,Igabi,<Null>,<Null>,Kaduna Central,NG01901,Kaduna,NG019,Nigeria,NG,567856
+Igalamela-Odolu,NG023008,Igalamela-Odolu,<Null>,<Null>,Kogi East,NG02302,Kogi,NG023,Nigeria,NG,195370
+Igbo-Etiti,NG014007,Igbo-Etiti,<Null>,<Null>,Enugu North,NG01401,Enugu,NG014,Nigeria,NG,276185
+Igbo-Eze North,NG014008,Igbo-Eze North,<Null>,<Null>,Enugu North,NG01401,Enugu,NG014,Nigeria,NG,342421
+Igbo-Eze South,NG014009,Igbo-Eze South,<Null>,<Null>,Enugu North,NG01401,Enugu,NG014,Nigeria,NG,194457
+Igueben,NG012010,Igueben,<Null>,<Null>,Edo Central,NG01202,Edo,NG012,Nigeria,NG,89560
+Ihiala,NG004012,Ihiala,<Null>,<Null>,Anambra South,NG00403,Anambra,NG004,Nigeria,NG,391988
+Ihitte/Uboma,NG017007,Ihitte/Uboma,<Null>,<Null>,Imo North,NG01702,Imo,NG017,Nigeria,NG,162120
+Ijebu East,NG028008,Ijebu East,<Null>,<Null>,Ogun East,NG02802,Ogun,NG028,Nigeria,NG,149220
+Ijebu North,NG028009,Ijebu North,<Null>,<Null>,Ogun East,NG02802,Ogun,NG028,Nigeria,NG,385030
+Ijebu North East,NG028010,Ijebu North East,<Null>,<Null>,Ogun East,NG02802,Ogun,NG028,Nigeria,NG,91586
+Ijebu Ode,NG028011,Ijebu Ode,<Null>,<Null>,Ogun East,NG02802,Ogun,NG028,Nigeria,NG,208580
+Ijero,NG013009,Ijero,<Null>,<Null>,Ekiti Central,NG01302,Ekiti,NG013,Nigeria,NG,294748
+Ijumu,NG023009,Ijumu,<Null>,<Null>,Kogi West,NG02303,Kogi,NG023,Nigeria,NG,158293
+Ika,NG003011,Ika,<Null>,<Null>,Akwa Ibom North West,NG00302,Akwa Ibom,NG003,Nigeria,NG,99609
+Ika North East,NG010007,Ika North East,<Null>,<Null>,Delta North,NG01002,Delta,NG010,Nigeria,NG,246592
+Ika South,NG010008,Ika South,<Null>,<Null>,Delta North,NG01002,Delta,NG010,Nigeria,NG,218311
+Ikara,NG019005,Ikara,<Null>,<Null>,Kaduna North,NG01902,Kaduna,NG019,Nigeria,NG,255961
+Ikeduru,NG017008,Ikeduru,<Null>,<Null>,Imo East,NG01701,Imo,NG017,Nigeria,NG,200483
+Ikeja,NG025011,Ikeja,<Null>,<Null>,Lagos West,NG02501,Lagos,NG025,Nigeria,NG,420520
+Ikenne,NG028012,Ikenne,<Null>,<Null>,Ogun East,NG02802,Ogun,NG028,Nigeria,NG,160783
+Ikere,NG013010,Ikere,<Null>,<Null>,Ekiti South,NG01301,Ekiti,NG013,Nigeria,NG,196168
+Ikole,NG013011,Ikole,<Null>,<Null>,Ekiti North,NG01303,Ekiti,NG013,Nigeria,NG,224232
+Ikom,NG009012,Ikom,<Null>,<Null>,Cross River Central,NG00901,Cross River,NG009,Nigeria,NG,212490
+Ikono,NG003012,Ikono,<Null>,<Null>,Akwa Ibom North West,NG00302,Akwa Ibom,NG003,Nigeria,NG,180134
+Ikorodu,NG025012,Ikorodu,<Null>,<Null>,Lagos East,NG02503,Lagos,NG025,Nigeria,NG,719162
+Ikot Abasi,NG003013,Ikot Abasi,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,180296
+Ikot Ekpene,NG003014,Ikot Ekpene,<Null>,<Null>,Akwa Ibom North West,NG00302,Akwa Ibom,NG003,Nigeria,NG,195392
+Ikpoba-Okha,NG012011,Ikpoba-Okha,<Null>,<Null>,Edo South,NG01201,Edo,NG012,Nigeria,NG,477268
+Ikwerre,NG033013,Ikwerre,<Null>,<Null>,Rivers East,NG03301,Rivers,NG033,Nigeria,NG,259098
+Ikwo,NG011007,Ikwo,<Null>,<Null>,Ebonyi Central,NG01102,Ebonyi,NG011,Nigeria,NG,278405
+Ikwuano,NG001005,Ikwuano,<Null>,<Null>,Abia Central,NG00101,Abia,NG001,Nigeria,NG,177468
+Ila,NG030017,Ila,<Null>,<Null>,Osun Central,NG03001,Osun,NG030,Nigeria,NG,83312
+Ilaje,NG029010,Ilaje,<Null>,<Null>,Ondo South,NG02903,Ondo,NG029,Nigeria,NG,383580
+Ile-Oluji-Okeigbo,NG029011,Ile-Oluji-Okeigbo,<Null>,<Null>,Ondo South,NG02903,Ondo,NG029,Nigeria,NG,228170
+Ilejemeji,NG013012,Ilejemeji,<Null>,<Null>,Ekiti North,NG01303,Ekiti,NG013,Nigeria,NG,57950
+Ilesha East,NG030018,Ilesha East,<Null>,<Null>,Osun East,NG03002,Osun,NG030,Nigeria,NG,143110
+Ilesha West,NG030019,Ilesha West,<Null>,<Null>,Osun East,NG03002,Osun,NG030,Nigeria,NG,139041
+Illela,NG034008,Illela,<Null>,<Null>,Sokoto East,NG03401,Sokoto,NG034,Nigeria,NG,198629
+Ilorin East,NG024006,Ilorin East,<Null>,<Null>,Kwara Central,NG02401,Kwara,NG024,Nigeria,NG,269667
+Ilorin South,NG024007,Ilorin South,<Null>,<Null>,Kwara Central,NG02401,Kwara,NG024,Nigeria,NG,275450
+Ilorin West,NG024008,Ilorin West,<Null>,<Null>,Kwara Central,NG02401,Kwara,NG024,Nigeria,NG,481320
+Imeko-Afon,NG028013,Imeko-Afon,<Null>,<Null>,Ogun West,NG02803,Ogun,NG028,Nigeria,NG,111333
+Ingawa,NG021015,Ingawa,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,224056
+Ini,NG003015,Ini,<Null>,<Null>,Akwa Ibom North West,NG00302,Akwa Ibom,NG003,Nigeria,NG,135466
+Ipokia,NG028014,Ipokia,<Null>,<Null>,Ogun West,NG02803,Ogun,NG028,Nigeria,NG,203697
+Irele,NG029012,Irele,<Null>,<Null>,Ondo South,NG02903,Ondo,NG029,Nigeria,NG,191603
+Irepo,NG031015,Irepo,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,167364
+Irepodun,NG024009,Irepodun,<Null>,<Null>,Kwara South,NG02403,Kwara,NG024,Nigeria,NG,196149
+Irepodun,NG030020,Irepodun,<Null>,<Null>,Osun Central,NG03001,Osun,NG030,Nigeria,NG,160446
+Irepodun/Ifelodun,NG013013,Irepodun/Ifelodun,<Null>,<Null>,Ekiti Central,NG01302,Ekiti,NG013,Nigeria,NG,171931
+Irewole,NG030021,Irewole,<Null>,<Null>,Osun West,NG03003,Osun,NG030,Nigeria,NG,192807
+Isa,NG034009,Isa,<Null>,<Null>,Sokoto East,NG03401,Sokoto,NG034,Nigeria,NG,192840
+Ise/Orun,NG013014,Ise/Orun,<Null>,<Null>,Ekiti South,NG01301,Ekiti,NG013,Nigeria,NG,151436
+Iseyin,NG031016,Iseyin,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,350869
+Ishielu,NG011008,Ishielu,<Null>,<Null>,Ebonyi Central,NG01102,Ebonyi,NG011,Nigeria,NG,195954
+Isi-Uzo,NG014010,Isi-Uzo,<Null>,<Null>,Enugu East,NG01402,Enugu,NG014,Nigeria,NG,195892
+Isiala-Ngwa North,NG001006,Isiala-Ngwa North,<Null>,<Null>,Abia Central,NG00101,Abia,NG001,Nigeria,NG,197712
+Isiala-Ngwa South,NG001007,Isiala-Ngwa South,<Null>,<Null>,Abia Central,NG00101,Abia,NG001,Nigeria,NG,173313
+Isiala Mbano,NG017009,Isiala Mbano,<Null>,<Null>,Imo North,NG01702,Imo,NG017,Nigeria,NG,266838
+Isin,NG024010,Isin,<Null>,<Null>,Kwara South,NG02403,Kwara,NG024,Nigeria,NG,78848
+Isiukwuato,NG001008,Isiukwuato,<Null>,<Null>,Abia North,NG00102,Abia,NG001,Nigeria,NG,147180
+Isokan,NG030022,Isokan,<Null>,<Null>,Osun West,NG03003,Osun,NG030,Nigeria,NG,138533
+Isoko North,NG010009,Isoko North,<Null>,<Null>,Delta South,NG01003,Delta,NG010,Nigeria,NG,193553
+Isoko South,NG010010,Isoko South,<Null>,<Null>,Delta South,NG01003,Delta,NG010,Nigeria,NG,305743
+Isu,NG017010,Isu,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,220827
+Itas/Gadau,NG005010,Itas/Gadau,<Null>,<Null>,Bauchi North,NG00502,Bauchi,NG005,Nigeria,NG,314093
+Itesiwaju,NG031017,Itesiwaju,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,175693
+Itu,NG003016,Itu,<Null>,<Null>,Akwa Ibom North East,NG00301,Akwa Ibom,NG003,Nigeria,NG,173482
+Ivo,NG011009,Ivo,<Null>,<Null>,Ebonyi South,NG01101,Ebonyi,NG011,Nigeria,NG,156868
+Iwajowa,NG031018,Iwajowa,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,140634
+Iwo,NG030023,Iwo,<Null>,<Null>,Osun West,NG03003,Osun,NG030,Nigeria,NG,256957
+Izzi,NG011010,Izzi,<Null>,<Null>,Ebonyi North,NG01103,Ebonyi,NG011,Nigeria,NG,303661
+Jaba,NG019006,Jaba,<Null>,<Null>,Kaduna South,NG01903,Kaduna,NG019,Nigeria,NG,205081
+Jada,NG002008,Jada,<Null>,<Null>,Adamawa South,NG00203,Adamawa,NG002,Nigeria,NG,220459
+Jahun,NG018014,Jahun,<Null>,<Null>,Jigawa South-West,NG01803,Jigawa,NG018,Nigeria,NG,299786
+Jakusko,NG036009,Jakusko,<Null>,<Null>,Yobe North,NG03602,Yobe,NG036,Nigeria,NG,315493
+Jalingo,NG035007,Jalingo,<Null>,<Null>,Taraba North,NG03502,Taraba,NG035,Nigeria,NG,182997
+Jama'are,NG005011,Jamaare,<Null>,<Null>,Bauchi North,NG00502,Bauchi,NG005,Nigeria,NG,160986
+Jega,NG022011,Jega,<Null>,<Null>,Kebbi North,NG02202,Kebbi,NG022,Nigeria,NG,257402
+Jema'a,NG019007,Jemaa,<Null>,<Null>,Kaduna South,NG01903,Kaduna,NG019,Nigeria,NG,367900
+Jere,NG008013,Jere,<Null>,<Null>,Borno Central,NG00801,Borno,NG008,Nigeria,NG,288430
+Jibia,NG021016,Jibia,<Null>,<Null>,Katsina Central,NG02101,Katsina,NG021,Nigeria,NG,224049
+Jos East,NG032004,Jos East,<Null>,<Null>,Plateau North,NG03202,Plateau,NG032,Nigeria,NG,110090
+Jos North,NG032005,Jos North,<Null>,<Null>,Plateau North,NG03202,Plateau,NG032,Nigeria,NG,552109
+Jos South,NG032006,Jos South,<Null>,<Null>,Plateau North,NG03202,Plateau,NG032,Nigeria,NG,394458
+Kabba/Bunu,NG023010,Kabba/Bunu,<Null>,<Null>,Kogi West,NG02303,Kogi,NG023,Nigeria,NG,191973
+Kabo,NG020020,Kabo,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,208304
+Kachia,NG019008,Kachia,<Null>,<Null>,Kaduna South,NG01903,Kaduna,NG019,Nigeria,NG,322415
+Kaduna North,NG019009,Kaduna North,<Null>,<Null>,Kaduna Central,NG01901,Kaduna,NG019,Nigeria,NG,472117
+Kaduna South,NG019010,Kaduna South,<Null>,<Null>,Kaduna Central,NG01901,Kaduna,NG019,Nigeria,NG,531111
+Kafin Hausa,NG018015,Kafin Hausa,<Null>,<Null>,Jigawa North-East,NG01801,Jigawa,NG018,Nigeria,NG,354699
+Kafur,NG021017,Kafur,<Null>,<Null>,Katsina South,NG02103,Katsina,NG021,Nigeria,NG,267785
+Kaga,NG008014,Kaga,<Null>,<Null>,Borno Central,NG00801,Borno,NG008,Nigeria,NG,122928
+Kagarko,NG019011,Kagarko,<Null>,<Null>,Kaduna South,NG01903,Kaduna,NG019,Nigeria,NG,318019
+Kaiama,NG024011,Kaiama,<Null>,<Null>,Kwara North,NG02402,Kwara,NG024,Nigeria,NG,163883
+Kaita,NG021018,Kaita,<Null>,<Null>,Katsina Central,NG02101,Katsina,NG021,Nigeria,NG,243389
+Kajola,NG031019,Kajola,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,274490
+Kajuru,NG019012,Kajuru,<Null>,<Null>,Kaduna Central,NG01901,Kaduna,NG019,Nigeria,NG,146334
+Kala/Balge,NG008015,Kala/Balge,<Null>,<Null>,Borno Central,NG00801,Borno,NG008,Nigeria,NG,83027
+Kalgo,NG022012,Kalgo,<Null>,<Null>,Kebbi Central,NG02201,Kebbi,NG022,Nigeria,NG,113694
+Kaltungo,NG016007,Kaltungo,<Null>,<Null>,Gombe South,NG01603,Gombe,NG016,Nigeria,NG,201139
+Kanam,NG032007,Kanam,<Null>,<Null>,Plateau Central,NG03201,Plateau,NG032,Nigeria,NG,213356
+Kankara,NG021019,Kankara,<Null>,<Null>,Katsina South,NG02103,Katsina,NG021,Nigeria,NG,324349
+Kanke,NG032008,Kanke,<Null>,<Null>,Plateau Central,NG03201,Plateau,NG032,Nigeria,NG,156160
+Kankia,NG021020,Kankia,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,199877
+Kano Municipal,NG020021,Kano Municipal,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,494970
+Karasuwa,NG036010,Karasuwa,<Null>,<Null>,Yobe North,NG03602,Yobe,NG036,Nigeria,NG,147349
+Karaye,NG020022,Karaye,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,191484
+Karim-Lamido,NG035008,Karim-Lamido,<Null>,<Null>,Taraba North,NG03502,Taraba,NG035,Nigeria,NG,256276
+Karu,NG026004,Karu,<Null>,<Null>,Nassarawa West,NG02603,Nasarawa,NG026,Nigeria,NG,271207
+Katagum,NG005012,Katagum,<Null>,<Null>,Bauchi North,NG00502,Bauchi,NG005,Nigeria,NG,404190
+Katcha,NG027010,Katcha,<Null>,<Null>,Niger South,NG02703,Niger,NG027,Nigeria,NG,166849
+Katsina,NG021021,Katsina,<Null>,<Null>,Katsina Central,NG02101,Katsina,NG021,Nigeria,NG,420331
+Katsina-Ala,NG007009,Katsina-Ala,<Null>,<Null>,Benue North East,NG00701,Benue,NG007,Nigeria,NG,296603
+Kaugama,NG018016,Kaugama,<Null>,<Null>,Jigawa North-East,NG01801,Jigawa,NG018,Nigeria,NG,167439
+Kaura,NG019013,Kaura,<Null>,<Null>,Kaduna South,NG01903,Kaduna,NG019,Nigeria,NG,293780
+Kaura Namoda,NG037008,Kaura Namoda,<Null>,<Null>,Zamfara North,NG03702,Zamfara,NG037,Nigeria,NG,377784
+Kauru,NG019014,Kauru,<Null>,<Null>,Kaduna South,NG01903,Kaduna,NG019,Nigeria,NG,224392
+Kazaure,NG018017,Kazaure,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,211326
+Keana,NG026005,Keana,<Null>,<Null>,Nassarawa South,NG02601,Nasarawa,NG026,Nigeria,NG,104605
+Kebbe,NG034010,Kebbe,<Null>,<Null>,Sokoto South,NG03403,Sokoto,NG034,Nigeria,NG,164535
+Keffi,NG026006,Keffi,<Null>,<Null>,Nassarawa West,NG02603,Nasarawa,NG026,Nigeria,NG,122306
+Khana,NG033014,Khana,<Null>,<Null>,Rivers South East,NG03302,Rivers,NG033,Nigeria,NG,401796
+Kibiya,NG020023,Kibiya,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,185159
+Kirfi,NG005013,Kirfi,<Null>,<Null>,Bauchi South,NG00503,Bauchi,NG005,Nigeria,NG,201594
+Kiri Kasamma,NG018018,Kiri Kasamma,<Null>,<Null>,Jigawa North-East,NG01801,Jigawa,NG018,Nigeria,NG,250621
+Kiru,NG020024,Kiru,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,358549
+Kiyawa,NG018019,Kiyawa,<Null>,<Null>,Jigawa South-West,NG01803,Jigawa,NG018,Nigeria,NG,226269
+Kogi,NG023011,Kogi,<Null>,<Null>,Kogi West,NG02303,Kogi,NG023,Nigeria,NG,152975
+Koko/Besse,NG022013,Koko/Besse,<Null>,<Null>,Kebbi Central,NG02201,Kebbi,NG022,Nigeria,NG,205819
+Kokona,NG026007,Kokona,<Null>,<Null>,Nassarawa West,NG02603,Nasarawa,NG026,Nigeria,NG,144857
+Kolokuma/Opokuma,NG006003,Kolokuma/Opokuma,<Null>,<Null>,Bayelsa Central,NG00601,Bayelsa,NG006,Nigeria,NG,101142
+Konduga,NG008016,Konduga,<Null>,<Null>,Borno Central,NG00801,Borno,NG008,Nigeria,NG,213811
+Konshisha,NG007010,Konshisha,<Null>,<Null>,Benue North East,NG00701,Benue,NG007,Nigeria,NG,297863
+Kontagora,NG027011,Kontagora,<Null>,<Null>,Niger North,NG02702,Niger,NG027,Nigeria,NG,207501
+Kosofe,NG025013,Kosofe,<Null>,<Null>,Lagos East,NG02503,Lagos,NG025,Nigeria,NG,893406
+Kubau,NG019015,Kubau,<Null>,<Null>,Kaduna North,NG01902,Kaduna,NG019,Nigeria,NG,372269
+Kudan,NG019016,Kudan,<Null>,<Null>,Kaduna North,NG01902,Kaduna,NG019,Nigeria,NG,183454
+Kuje,NG015005,Kuje,<Null>,<Null>,Federal Capital Territory,NG01501,Federal Capital Territory,NG015,Nigeria,NG,207641
+Kukawa,NG008017,Kukawa,<Null>,<Null>,Borno North,NG00802,Borno,NG008,Nigeria,NG,278406
+Kumbotso,NG020025,Kumbotso,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,400796
+Kunchi,NG020026,Kunchi,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,150333
+Kura,NG020027,Kura,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,195809
+Kurfi,NG021022,Kurfi,<Null>,<Null>,Katsina Central,NG02101,Katsina,NG021,Nigeria,NG,155194
+Kurmi,NG035009,Kurmi,<Null>,<Null>,Taraba Central,NG03501,Taraba,NG035,Nigeria,NG,119775
+Kusada,NG021023,Kusada,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,131022
+Kwali,NG015006,Kwali,<Null>,<Null>,Federal Capital Territory,NG01501,Federal Capital Territory,NG015,Nigeria,NG,183052
+Kwami,NG016008,Kwami,<Null>,<Null>,Gombe North,NG01602,Gombe,NG016,Nigeria,NG,262222
+Kwande,NG007011,Kwande,<Null>,<Null>,Benue North East,NG00701,Benue,NG007,Nigeria,NG,328253
+Kware,NG034011,Kware,<Null>,<Null>,Sokoto North,NG03402,Sokoto,NG034,Nigeria,NG,176732
+Kwaya Kusar,NG008018,Kwaya Kusar,<Null>,<Null>,Borno South,NG00803,Borno,NG008,Nigeria,NG,77159
+Lafia,NG026008,Lafia,<Null>,<Null>,Nassarawa South,NG02601,Nasarawa,NG026,Nigeria,NG,436504
+Lagelu,NG031020,Lagelu,<Null>,<Null>,Oyo Central,NG03101,Oyo,NG031,Nigeria,NG,202057
+Lagos Island,NG025014,Lagos Island,<Null>,<Null>,Lagos Central,NG02502,Lagos,NG025,Nigeria,NG,281206
+Lagos Mainland,NG025015,Lagos Mainland,<Null>,<Null>,Lagos Central,NG02502,Lagos,NG025,Nigeria,NG,426594
+Lamurde,NG002009,Lamurde,<Null>,<Null>,Adamawa South,NG00203,Adamawa,NG002,Nigeria,NG,147611
+Langtang North,NG032009,Langtang North,<Null>,<Null>,Plateau South,NG03203,Plateau,NG032,Nigeria,NG,180876
+Langtang South,NG032010,Langtang South,<Null>,<Null>,Plateau South,NG03203,Plateau,NG032,Nigeria,NG,136715
+Lapai,NG027012,Lapai,<Null>,<Null>,Niger South,NG02703,Niger,NG027,Nigeria,NG,150394
+Lau,NG035010,Lau,<Null>,<Null>,Taraba North,NG03502,Taraba,NG035,Nigeria,NG,126395
+Lavun,NG027013,Lavun,<Null>,<Null>,Niger South,NG02703,Niger,NG027,Nigeria,NG,286672
+Lere,NG019017,Lere,<Null>,<Null>,Kaduna North,NG01902,Kaduna,NG019,Nigeria,NG,437097
+Logo,NG007012,Logo,<Null>,<Null>,Benue North East,NG00701,Benue,NG007,Nigeria,NG,223145
+Lokoja,NG023012,Lokoja,<Null>,<Null>,Kogi West,NG02303,Kogi,NG023,Nigeria,NG,257723
+Machina,NG036011,Machina,<Null>,<Null>,Yobe North,NG03602,Yobe,NG036,Nigeria,NG,84844
+Madagali,NG002010,Madagali,<Null>,<Null>,Adamawa North,NG00202,Adamawa,NG002,Nigeria,NG,176431
+Madobi,NG020028,Madobi,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,185006
+Mafa,NG008019,Mafa,<Null>,<Null>,Borno Central,NG00801,Borno,NG008,Nigeria,NG,141369
+Magama,NG027014,Magama,<Null>,<Null>,Niger North,NG02702,Niger,NG027,Nigeria,NG,248073
+Magumeri,NG008020,Magumeri,<Null>,<Null>,Borno North,NG00802,Borno,NG008,Nigeria,NG,191506
+Mai'adua,NG021024,Maiadua,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,265533
+Maiduguri,NG008021,Maiduguri,<Null>,<Null>,Borno Central,NG00801,Borno,NG008,Nigeria,NG,712173
+Maigatari,NG018020,Maigatari,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,235170
+Maiha,NG002011,Maiha,<Null>,<Null>,Adamawa North,NG00202,Adamawa,NG002,Nigeria,NG,145533
+Maiyama,NG022014,Maiyama,<Null>,<Null>,Kebbi Central,NG02201,Kebbi,NG022,Nigeria,NG,233884
+Makoda,NG020029,Makoda,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,301158
+Makurdi,NG007013,Makurdi,<Null>,<Null>,Benue North West,NG00702,Benue,NG007,Nigeria,NG,392533
+Malam Madori,NG018021,Malam Madori,<Null>,<Null>,Jigawa North-East,NG01801,Jigawa,NG018,Nigeria,NG,211220
+Malumfashi,NG021025,Malumfashi,<Null>,<Null>,Katsina South,NG02103,Katsina,NG021,Nigeria,NG,241435
+Mangu,NG032011,Mangu,<Null>,<Null>,Plateau Central,NG03201,Plateau,NG032,Nigeria,NG,379301
+Mani,NG021026,Mani,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,233576
+Maradun,NG037009,Maradun,<Null>,<Null>,Zamfara West,NG03703,Zamfara,NG037,Nigeria,NG,283106
+Mariga,NG027015,Mariga,<Null>,<Null>,Niger North,NG02702,Niger,NG027,Nigeria,NG,272350
+Markafi,NG019018,Markafi,<Null>,<Null>,Kaduna North,NG01902,Kaduna,NG019,Nigeria,NG,193046
+Marte,NG008022,Marte,<Null>,<Null>,Borno North,NG00802,Borno,NG008,Nigeria,NG,176673
+Maru,NG037010,Maru,<Null>,<Null>,Zamfara Central,NG03701,Zamfara,NG037,Nigeria,NG,391927
+Mashegu,NG027016,Mashegu,<Null>,<Null>,Niger North,NG02702,Niger,NG027,Nigeria,NG,293644
+Mashi,NG021027,Mashi,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,228518
+Matazu,NG021028,Matazu,<Null>,<Null>,Katsina South,NG02103,Katsina,NG021,Nigeria,NG,152217
+Mayo-Belwa,NG002012,Mayo-Belwa,<Null>,<Null>,Adamawa South,NG00203,Adamawa,NG002,Nigeria,NG,200380
+Mbaitoli,NG017011,Mbaitoli,<Null>,<Null>,Imo East,NG01701,Imo,NG017,Nigeria,NG,318959
+Mbo,NG003017,Mbo,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,142043
+Michika,NG002013,Michika,<Null>,<Null>,Adamawa North,NG00202,Adamawa,NG002,Nigeria,NG,203224
+Miga,NG018022,Miga,<Null>,<Null>,Jigawa South-West,NG01803,Jigawa,NG018,Nigeria,NG,168052
+Mikang,NG032012,Mikang,<Null>,<Null>,Plateau South,NG03203,Plateau,NG032,Nigeria,NG,125277
+Minjibir,NG020030,Minjibir,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,289506
+Misau,NG005014,Misau,<Null>,<Null>,Bauchi Central,NG00501,Bauchi,NG005,Nigeria,NG,359829
+Mkpat Enin,NG003018,Mkpat Enin,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,243134
+Moba,NG013015,Moba,<Null>,<Null>,Ekiti North,NG01303,Ekiti,NG013,Nigeria,NG,195024
+Mobbar,NG008023,Mobbar,<Null>,<Null>,Borno North,NG00802,Borno,NG008,Nigeria,NG,159308
+Mokwa,NG027017,Mokwa,<Null>,<Null>,Niger South,NG02703,Niger,NG027,Nigeria,NG,334497
+Monguno,NG008024,Monguno,<Null>,<Null>,Borno North,NG00802,Borno,NG008,Nigeria,NG,150017
+Mopa-Muro,NG023013,Mopa-Muro,<Null>,<Null>,Kogi West,NG02303,Kogi,NG023,Nigeria,NG,58124
+Moro,NG024012,Moro,<Null>,<Null>,Kwara North,NG02402,Kwara,NG024,Nigeria,NG,143594
+Mubi North,NG002014,Mubi North,<Null>,<Null>,Adamawa North,NG00202,Adamawa,NG002,Nigeria,NG,197688
+Mubi South,NG002015,Mubi South,<Null>,<Null>,Adamawa North,NG00202,Adamawa,NG002,Nigeria,NG,168723
+Musawa,NG021029,Musawa,<Null>,<Null>,Katsina South,NG02103,Katsina,NG021,Nigeria,NG,226644
+Mushin,NG025016,Mushin,<Null>,<Null>,Lagos West,NG02501,Lagos,NG025,Nigeria,NG,849925
+Muya,NG027018,Muya,<Null>,<Null>,Niger East,NG02701,Niger,NG027,Nigeria,NG,141550
+Nafada,NG016009,Nafada,<Null>,<Null>,Gombe North,NG01602,Gombe,NG016,Nigeria,NG,185537
+Nangere,NG036012,Nangere,<Null>,<Null>,Yobe South,NG03603,Yobe,NG036,Nigeria,NG,120950
+Nasarawa,NG020031,Nasarawa,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,807971
+Nasarawa,NG026009,Nasarawa,<Null>,<Null>,Nassarawa West,NG02603,Nasarawa,NG026,Nigeria,NG,250562
+Nasarawa-Eggon,NG026010,Nasarawa-Eggon,<Null>,<Null>,Nassarawa North,NG02602,Nasarawa,NG026,Nigeria,NG,196834
+Ndokwa East,NG010011,Ndokwa East,<Null>,<Null>,Delta North,NG01002,Delta,NG010,Nigeria,NG,138525
+Ndokwa West,NG010012,Ndokwa West,<Null>,<Null>,Delta North,NG01002,Delta,NG010,Nigeria,NG,200495
+Nembe,NG006004,Nembe,<Null>,<Null>,Bayelsa East,NG00602,Bayelsa,NG006,Nigeria,NG,171332
+Ngala,NG008025,Ngala,<Null>,<Null>,Borno Central,NG00801,Borno,NG008,Nigeria,NG,323755
+Nganzai,NG008026,Nganzai,<Null>,<Null>,Borno North,NG00802,Borno,NG008,Nigeria,NG,136290
+Ngaski,NG022015,Ngaski,<Null>,<Null>,Kebbi South,NG02203,Kebbi,NG022,Nigeria,NG,166096
+Ngor-Okpala,NG017012,Ngor-Okpala,<Null>,<Null>,Imo East,NG01701,Imo,NG017,Nigeria,NG,214737
+Nguru,NG036013,Nguru,<Null>,<Null>,Yobe North,NG03602,Yobe,NG036,Nigeria,NG,207450
+Ningi,NG005015,Ningi,<Null>,<Null>,Bauchi Central,NG00501,Bauchi,NG005,Nigeria,NG,528767
+Njaba,NG017013,Njaba,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,194835
+Njikoka,NG004013,Njikoka,<Null>,<Null>,Anambra Central,NG00401,Anambra,NG004,Nigeria,NG,192603
+Nkanu East,NG014011,Nkanu East,<Null>,<Null>,Enugu East,NG01402,Enugu,NG014,Nigeria,NG,196366
+Nkanu West,NG014012,Nkanu West,<Null>,<Null>,Enugu East,NG01402,Enugu,NG014,Nigeria,NG,193622
+Nkwerre,NG017014,Nkwerre,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,107618
+Nnewi North,NG004014,Nnewi North,<Null>,<Null>,Anambra South,NG00403,Anambra,NG004,Nigeria,NG,204414
+Nnewi South,NG004015,Nnewi South,<Null>,<Null>,Anambra South,NG00403,Anambra,NG004,Nigeria,NG,303124
+Nsit Atai,NG003019,Nsit Atai,<Null>,<Null>,Akwa Ibom North East,NG00301,Akwa Ibom,NG003,Nigeria,NG,101870
+Nsit Ibom,NG003020,Nsit Ibom,<Null>,<Null>,Akwa Ibom North East,NG00301,Akwa Ibom,NG003,Nigeria,NG,148324
+Nsit Ubium,NG003021,Nsit Ubium,<Null>,<Null>,Akwa Ibom North East,NG00301,Akwa Ibom,NG003,Nigeria,NG,175118
+Nsukka,NG014013,Nsukka,<Null>,<Null>,Enugu North,NG01401,Enugu,NG014,Nigeria,NG,408682
+Numan,NG002016,Numan,<Null>,<Null>,Adamawa South,NG00203,Adamawa,NG002,Nigeria,NG,118717
+Nwangele,NG017015,Nwangele,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,172496
+Obafemi-Owode,NG028015,Obafemi-Owode,<Null>,<Null>,Ogun Central,NG02801,Ogun,NG028,Nigeria,NG,309895
+Obanliku,NG009013,Obanliku,<Null>,<Null>,Cross River North,NG00902,Cross River,NG009,Nigeria,NG,144367
+Obi,NG007014,Obi,<Null>,<Null>,Benue South,NG00703,Benue,NG007,Nigeria,NG,130478
+Obi,NG026011,Obi,<Null>,<Null>,Nassarawa South,NG02601,Nasarawa,NG026,Nigeria,NG,196498
+Obi Ngwa,NG001009,Obi Ngwa,<Null>,<Null>,Abia South,NG00103,Abia,NG001,Nigeria,NG,233343
+Obia/Akpor,NG033015,Obia/Akpor,<Null>,<Null>,Rivers East,NG03301,Rivers,NG033,Nigeria,NG,634736
+Obokun,NG030024,Obokun,<Null>,<Null>,Osun East,NG03002,Osun,NG030,Nigeria,NG,156436
+Obot Akara,NG003022,Obot Akara,<Null>,<Null>,Akwa Ibom North West,NG00302,Akwa Ibom,NG003,Nigeria,NG,202499
+Obowo,NG017016,Obowo,<Null>,<Null>,Imo North,NG01702,Imo,NG017,Nigeria,NG,158589
+Obubra,NG009014,Obubra,<Null>,<Null>,Cross River Central,NG00901,Cross River,NG009,Nigeria,NG,225655
+Obudu,NG009015,Obudu,<Null>,<Null>,Cross River North,NG00902,Cross River,NG009,Nigeria,NG,209510
+Odeda,NG028016,Odeda,<Null>,<Null>,Ogun Central,NG02801,Ogun,NG028,Nigeria,NG,148209
+Odigbo,NG029013,Odigbo,<Null>,<Null>,Ondo South,NG02903,Ondo,NG029,Nigeria,NG,304038
+Odo-Otin,NG030025,Odo-Otin,<Null>,<Null>,Osun Central,NG03001,Osun,NG030,Nigeria,NG,180066
+Odogbolu,NG028017,Odogbolu,<Null>,<Null>,Ogun East,NG02802,Ogun,NG028,Nigeria,NG,172142
+Odukpani,NG009016,Odukpani,<Null>,<Null>,Cross River South,NG00903,Cross River,NG009,Nigeria,NG,251827
+Offa,NG024013,Offa,<Null>,<Null>,Kwara Central,NG02401,Kwara,NG024,Nigeria,NG,118360
+Ofu,NG023014,Ofu,<Null>,<Null>,Kogi East,NG02302,Kogi,NG023,Nigeria,NG,253642
+Ogba/Egbema/Ndoni,NG033016,Ogba/Egbema/Ndoni,<Null>,<Null>,Rivers West,NG03303,Rivers,NG033,Nigeria,NG,387857
+Ogbadibo,NG007015,Ogbadibo,<Null>,<Null>,Benue South,NG00703,Benue,NG007,Nigeria,NG,169879
+Ogbaru,NG004016,Ogbaru,<Null>,<Null>,Anambra North,NG00402,Anambra,NG004,Nigeria,NG,287843
+Ogbia,NG006005,Ogbia,<Null>,<Null>,Bayelsa East,NG00602,Bayelsa,NG006,Nigeria,NG,235446
+Ogbomosho North,NG031021,Ogbomosho North,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,271381
+Ogbomosho South,NG031022,Ogbomosho South,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,137677
+Ogo Oluwa,NG031023,Ogo Oluwa,<Null>,<Null>,Oyo Central,NG03101,Oyo,NG031,Nigeria,NG,89018
+Ogoja,NG009017,Ogoja,<Null>,<Null>,Cross River North,NG00902,Cross River,NG009,Nigeria,NG,224945
+Ogori/Magongo,NG023015,Ogori/Magongo,<Null>,<Null>,Kogi Central,NG02301,Kogi,NG023,Nigeria,NG,52297
+Ogu/Bolo,NG033017,Ogu/Bolo,<Null>,<Null>,Rivers East,NG03301,Rivers,NG033,Nigeria,NG,101990
+Ogun waterside,NG028018,Ogun waterside,<Null>,<Null>,Ogun East,NG02802,Ogun,NG028,Nigeria,NG,98764
+Oguta,NG017017,Oguta,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,192013
+Ohafia,NG001010,Ohafia,<Null>,<Null>,Abia North,NG00102,Abia,NG001,Nigeria,NG,315272
+Ohaji/Egbema,NG017018,Ohaji/Egbema,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,245089
+Ohaozara,NG011011,Ohaozara,<Null>,<Null>,Ebonyi South,NG01101,Ebonyi,NG011,Nigeria,NG,192812
+Ohaukwu,NG011012,Ohaukwu,<Null>,<Null>,Ebonyi North,NG01103,Ebonyi,NG011,Nigeria,NG,254707
+Ohimini,NG007016,Ohimini,<Null>,<Null>,Benue South,NG00703,Benue,NG007,Nigeria,NG,94349
+Oji-River,NG014014,Oji-River,<Null>,<Null>,Enugu West,NG01403,Enugu,NG014,Nigeria,NG,167081
+Ojo,NG025017,Ojo,<Null>,<Null>,Lagos West,NG02501,Lagos,NG025,Nigeria,NG,803014
+Oju,NG007017,Oju,<Null>,<Null>,Benue South,NG00703,Benue,NG007,Nigeria,NG,224693
+Oke-Ero,NG024014,Oke-Ero,<Null>,<Null>,Kwara South,NG02403,Kwara,NG024,Nigeria,NG,76051
+Okehi,NG023016,Okehi,<Null>,<Null>,Kogi Central,NG02301,Kogi,NG023,Nigeria,NG,263977
+Okene,NG023017,Okene,<Null>,<Null>,Kogi Central,NG02301,Kogi,NG023,Nigeria,NG,422709
+Okigwe,NG017019,Okigwe,<Null>,<Null>,Imo North,NG01702,Imo,NG017,Nigeria,NG,177551
+Okitipupa,NG029014,Okitipupa,<Null>,<Null>,Ondo South,NG02903,Ondo,NG029,Nigeria,NG,308281
+Okobo,NG003023,Okobo,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,142105
+Okpe,NG010013,Okpe,<Null>,<Null>,Delta Central,NG01001,Delta,NG010,Nigeria,NG,174587
+Okpokwu,NG007018,Okpokwu,<Null>,<Null>,Benue South,NG00703,Benue,NG007,Nigeria,NG,233155
+Okrika,NG033018,Okrika,<Null>,<Null>,Rivers East,NG03301,Rivers,NG033,Nigeria,NG,303209
+Ola-oluwa,NG030026,Ola-oluwa,<Null>,<Null>,Osun West,NG03003,Osun,NG030,Nigeria,NG,102839
+Olamabolo,NG023018,Olamabolo,<Null>,<Null>,Kogi East,NG02302,Kogi,NG023,Nigeria,NG,211383
+Olorunda,NG030027,Olorunda,<Null>,<Null>,Osun Central,NG03001,Osun,NG030,Nigeria,NG,176912
+Olorunsogo,NG031024,Olorunsogo,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,111654
+Oluyole,NG031025,Oluyole,<Null>,<Null>,Oyo Central,NG03101,Oyo,NG031,Nigeria,NG,276850
+Omala,NG023019,Omala,<Null>,<Null>,Kogi East,NG02302,Kogi,NG023,Nigeria,NG,143079
+Omumma,NG033019,Omumma,<Null>,<Null>,Rivers East,NG03301,Rivers,NG033,Nigeria,NG,137064
+Ona-Ara,NG031026,Ona-Ara,<Null>,<Null>,Oyo Central,NG03101,Oyo,NG031,Nigeria,NG,361976
+Ondo East,NG029015,Ondo East,<Null>,<Null>,Ondo Central,NG02901,Ondo,NG029,Nigeria,NG,98672
+Ondo West,NG029016,Ondo West,<Null>,<Null>,Ondo Central,NG02901,Ondo,NG029,Nigeria,NG,374416
+Onicha,NG011013,Onicha,<Null>,<Null>,Ebonyi South,NG01101,Ebonyi,NG011,Nigeria,NG,307236
+Onitsha North,NG004017,Onitsha North,<Null>,<Null>,Anambra North,NG00402,Anambra,NG004,Nigeria,NG,162087
+Onitsha South,NG004018,Onitsha South,<Null>,<Null>,Anambra North,NG00402,Anambra,NG004,Nigeria,NG,177291
+Onna,NG003024,Onna,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,168484
+Opobo/Nkoro,NG033020,Opobo/Nkoro,<Null>,<Null>,Rivers South East,NG03302,Rivers,NG033,Nigeria,NG,206910
+Oredo,NG012012,Oredo,<Null>,<Null>,Edo South,NG01201,Edo,NG012,Nigeria,NG,481852
+Orelope,NG031027,Orelope,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,142629
+Orhionmwon,NG012013,Orhionmwon,<Null>,<Null>,Edo South,NG01201,Edo,NG012,Nigeria,NG,234986
+Ori Ire,NG031028,Ori Ire,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,205704
+Oriade,NG030028,Oriade,<Null>,<Null>,Osun East,NG03002,Osun,NG030,Nigeria,NG,199544
+Orlu,NG017020,Orlu,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,191622
+Orolu,NG030029,Orolu,<Null>,<Null>,Osun Central,NG03001,Osun,NG030,Nigeria,NG,138399
+Oron,NG003025,Oron,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,119441
+Orsu,NG017021,Orsu,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,161125
+Oru East,NG017022,Oru East,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,150141
+Oru West,NG017023,Oru West,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,157753
+Oruk Anam,NG003026,Oruk Anam,<Null>,<Null>,Akwa Ibom North West,NG00302,Akwa Ibom,NG003,Nigeria,NG,235784
+Orumba North,NG004019,Orumba North,<Null>,<Null>,Anambra South,NG00403,Anambra,NG004,Nigeria,NG,223660
+Orumba South,NG004020,Orumba South,<Null>,<Null>,Anambra South,NG00403,Anambra,NG004,Nigeria,NG,242851
+Ose,NG029017,Ose,<Null>,<Null>,Ondo North,NG02902,Ondo,NG029,Nigeria,NG,191254
+Oshimili North,NG010014,Oshimili North,<Null>,<Null>,Delta North,NG01002,Delta,NG010,Nigeria,NG,154832
+Oshimili South,NG010015,Oshimili South,<Null>,<Null>,Delta North,NG01002,Delta,NG010,Nigeria,NG,200868
+Oshodi-Isolo,NG025018,Oshodi-Isolo,<Null>,<Null>,Lagos West,NG02501,Lagos,NG025,Nigeria,NG,834484
+Osisioma Ngwa,NG001011,Osisioma Ngwa,<Null>,<Null>,Abia South,NG00103,Abia,NG001,Nigeria,NG,282462
+Osogbo,NG030030,Osogbo,<Null>,<Null>,Osun Central,NG03001,Osun,NG030,Nigeria,NG,210389
+Oturkpo,NG007019,Oturkpo,<Null>,<Null>,Benue South,NG00703,Benue,NG007,Nigeria,NG,345371
+Ovia North East,NG012014,Ovia North East,<Null>,<Null>,Edo South,NG01201,Edo,NG012,Nigeria,NG,197860
+Ovia South West,NG012015,Ovia South West,<Null>,<Null>,Edo South,NG01201,Edo,NG012,Nigeria,NG,174077
+Owan East,NG012016,Owan East,<Null>,<Null>,Edo North,NG01203,Edo,NG012,Nigeria,NG,198550
+Owan West,NG012017,Owan West,<Null>,<Null>,Edo North,NG01203,Edo,NG012,Nigeria,NG,125248
+Owerri-Municipal,NG017026,Owerri-Municipal,<Null>,<Null>,Imo East,NG01701,Imo,NG017,Nigeria,NG,170806
+Owerri North,NG017024,Owerri North,<Null>,<Null>,Imo East,NG01701,Imo,NG017,Nigeria,NG,235498
+Owerri West,NG017025,Owerri West,<Null>,<Null>,Imo East,NG01701,Imo,NG017,Nigeria,NG,133281
+Owo,NG029018,Owo,<Null>,<Null>,Ondo North,NG02902,Ondo,NG029,Nigeria,NG,288906
+Oye,NG013016,Oye,<Null>,<Null>,Ekiti North,NG01303,Ekiti,NG013,Nigeria,NG,178668
+Oyi,NG004021,Oyi,<Null>,<Null>,Anambra North,NG00402,Anambra,NG004,Nigeria,NG,217983
+Oyigbo,NG033021,Oyigbo,<Null>,<Null>,Rivers South East,NG03302,Rivers,NG033,Nigeria,NG,167547
+Oyo East,NG031029,Oyo East,<Null>,<Null>,Oyo Central,NG03101,Oyo,NG031,Nigeria,NG,169130
+Oyo West,NG031030,Oyo West,<Null>,<Null>,Oyo Central,NG03101,Oyo,NG031,Nigeria,NG,186050
+Oyun,NG024015,Oyun,<Null>,<Null>,Kwara South,NG02403,Kwara,NG024,Nigeria,NG,124404
+Paikoro,NG027019,Paikoro,<Null>,<Null>,Niger East,NG02701,Niger,NG027,Nigeria,NG,215889
+Pankshin,NG032013,Pankshin,<Null>,<Null>,Plateau Central,NG03201,Plateau,NG032,Nigeria,NG,246520
+Patani,NG010016,Patani,<Null>,<Null>,Delta South,NG01003,Delta,NG010,Nigeria,NG,90908
+Pategi,NG024016,Pategi,<Null>,<Null>,Kwara North,NG02402,Kwara,NG024,Nigeria,NG,148246
+Port-Harcourt,NG033022,Port-Harcourt,<Null>,<Null>,Rivers East,NG03301,Rivers,NG033,Nigeria,NG,738971
+Potiskum,NG036014,Potiskum,<Null>,<Null>,Yobe South,NG03603,Yobe,NG036,Nigeria,NG,283532
+Qua'an Pan,NG032014,Quaan Pan,<Null>,<Null>,Plateau South,NG03203,Plateau,NG032,Nigeria,NG,253264
+Rabah,NG034012,Rabah,<Null>,<Null>,Sokoto East,NG03401,Sokoto,NG034,Nigeria,NG,196882
+Rafi,NG027020,Rafi,<Null>,<Null>,Niger East,NG02701,Niger,NG027,Nigeria,NG,248450
+Rano,NG020032,Rano,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,196944
+Remo North,NG028019,Remo North,<Null>,<Null>,Ogun East,NG02802,Ogun,NG028,Nigeria,NG,81128
+Rijau,NG027021,Rijau,<Null>,<Null>,Niger North,NG02702,Niger,NG027,Nigeria,NG,240426
+Rimi,NG021030,Rimi,<Null>,<Null>,Katsina Central,NG02101,Katsina,NG021,Nigeria,NG,202925
+Rimin Gado,NG020033,Rimin Gado,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,141900
+Ringim,NG018023,Ringim,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,251277
+Riyom,NG032015,Riyom,<Null>,<Null>,Plateau North,NG03202,Plateau,NG032,Nigeria,NG,169191
+Rogo,NG020034,Rogo,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,308394
+Roni,NG018024,Roni,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,101832
+Sabon-Gari,NG019019,Sabon-Gari,<Null>,<Null>,Kaduna North,NG01902,Kaduna,NG019,Nigeria,NG,378639
+Sabon Birni,NG034013,Sabon Birni,<Null>,<Null>,Sokoto East,NG03401,Sokoto,NG034,Nigeria,NG,274008
+Sabuwa,NG021031,Sabuwa,<Null>,<Null>,Katsina South,NG02103,Katsina,NG021,Nigeria,NG,179571
+Safana,NG021032,Safana,<Null>,<Null>,Katsina Central,NG02101,Katsina,NG021,Nigeria,NG,242568
+Sagbama,NG006006,Sagbama,<Null>,<Null>,Bayelsa West,NG00603,Bayelsa,NG006,Nigeria,NG,244894
+Sakaba,NG022016,Sakaba,<Null>,<Null>,Kebbi South,NG02203,Kebbi,NG022,Nigeria,NG,119729
+Saki East,NG031031,Saki East,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,150525
+Saki West,NG031032,Saki West,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,379652
+Sandamu,NG021033,Sandamu,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,181204
+Sanga,NG019020,Sanga,<Null>,<Null>,Kaduna South,NG01903,Kaduna,NG019,Nigeria,NG,197103
+Sapele,NG010017,Sapele,<Null>,<Null>,Delta Central,NG01001,Delta,NG010,Nigeria,NG,230790
+Sardauna,NG035011,Sardauna,<Null>,<Null>,Taraba Central,NG03501,Taraba,NG035,Nigeria,NG,293692
+Shagamu,NG028020,Shagamu,<Null>,<Null>,Ogun East,NG02802,Ogun,NG028,Nigeria,NG,343154
+Shagari,NG034014,Shagari,<Null>,<Null>,Sokoto South,NG03403,Sokoto,NG034,Nigeria,NG,206448
+Shanga,NG022017,Shanga,<Null>,<Null>,Kebbi South,NG02203,Kebbi,NG022,Nigeria,NG,169264
+Shani,NG008027,Shani,<Null>,<Null>,Borno South,NG00803,Borno,NG008,Nigeria,NG,139729
+Shanono,NG020035,Shanono,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,190401
+Shelleng,NG002017,Shelleng,<Null>,<Null>,Adamawa South,NG00203,Adamawa,NG002,Nigeria,NG,195067
+Shendam,NG032016,Shendam,<Null>,<Null>,Plateau South,NG03203,Plateau,NG032,Nigeria,NG,267524
+Shinkafi,NG037011,Shinkafi,<Null>,<Null>,Zamfara North,NG03702,Zamfara,NG037,Nigeria,NG,182132
+Shira,NG005016,Shira,<Null>,<Null>,Bauchi North,NG00502,Bauchi,NG005,Nigeria,NG,319580
+Shiroro,NG027022,Shiroro,<Null>,<Null>,Niger East,NG02701,Niger,NG027,Nigeria,NG,321478
+Shomgom,NG016010,Shomgom,<Null>,<Null>,Gombe South,NG01603,Gombe,NG016,Nigeria,NG,203442
+Shomolu,NG025019,Shomolu,<Null>,<Null>,Lagos East,NG02503,Lagos,NG025,Nigeria,NG,540659
+Silame,NG034015,Silame,<Null>,<Null>,Sokoto North,NG03402,Sokoto,NG034,Nigeria,NG,137768
+Soba,NG019021,Soba,<Null>,<Null>,Kaduna North,NG01902,Kaduna,NG019,Nigeria,NG,387085
+Sokoto North,NG034016,Sokoto North,<Null>,<Null>,Sokoto North,NG03402,Sokoto,NG034,Nigeria,NG,307332
+Sokoto South,NG034017,Sokoto South,<Null>,<Null>,Sokoto North,NG03402,Sokoto,NG034,Nigeria,NG,257265
+Song,NG002018,Song,<Null>,<Null>,Adamawa Central,NG00201,Adamawa,NG002,Nigeria,NG,252158
+Southern Ijaw,NG006007,Southern Ijaw,<Null>,<Null>,Bayelsa Central,NG00601,Bayelsa,NG006,Nigeria,NG,417975
+Sule-Tankarkar,NG018025,Sule-Tankarkar,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,171225
+Suleja,NG027023,Suleja,<Null>,<Null>,Niger East,NG02701,Niger,NG027,Nigeria,NG,295768
+Sumaila,NG020036,Sumaila,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,343491
+Suru,NG022018,Suru,<Null>,<Null>,Kebbi North,NG02202,Kebbi,NG022,Nigeria,NG,199995
+Surulere,NG025020,Surulere,<Null>,<Null>,Lagos Central,NG02502,Lagos,NG025,Nigeria,NG,676674
+Surulere,NG031033,Surulere,<Null>,<Null>,Oyo Central,NG03101,Oyo,NG031,Nigeria,NG,194017
+Tafa,NG027024,Tafa,<Null>,<Null>,Niger East,NG02701,Niger,NG027,Nigeria,NG,114091
+Tafawa-Balewa,NG005017,Tafawa-Balewa,<Null>,<Null>,Bauchi South,NG00503,Bauchi,NG005,Nigeria,NG,300425
+Tai,NG033023,Tai,<Null>,<Null>,Rivers South East,NG03302,Rivers,NG033,Nigeria,NG,160869
+Takai,NG020037,Takai,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,274542
+Takum,NG035012,Takum,<Null>,<Null>,Taraba South,NG03503,Taraba,NG035,Nigeria,NG,177114
+Talata Mafara,NG037012,Talata Mafara,<Null>,<Null>,Zamfara North,NG03702,Zamfara,NG037,Nigeria,NG,288914
+Tambuwal,NG034018,Tambuwal,<Null>,<Null>,Sokoto South,NG03403,Sokoto,NG034,Nigeria,NG,296885
+Tangaza,NG034019,Tangaza,<Null>,<Null>,Sokoto North,NG03402,Sokoto,NG034,Nigeria,NG,150274
+Tarauni,NG020038,Tarauni,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,299761
+Tarka,NG007020,Tarka,<Null>,<Null>,Benue North West,NG00702,Benue,NG007,Nigeria,NG,104923
+Tarmua,NG036015,Tarmua,<Null>,<Null>,Yobe East,NG03601,Yobe,NG036,Nigeria,NG,106325
+Taura,NG018026,Taura,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,172413
+Tofa,NG020039,Tofa,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,132345
+Toro,NG005018,Toro,<Null>,<Null>,Bauchi South,NG00503,Bauchi,NG005,Nigeria,NG,478527
+Toto,NG026012,Toto,<Null>,<Null>,Nassarawa West,NG02603,Nasarawa,NG026,Nigeria,NG,157169
+Toungo,NG002019,Toungo,<Null>,<Null>,Adamawa South,NG00203,Adamawa,NG002,Nigeria,NG,68098
+Tsafe,NG037013,Tsafe,<Null>,<Null>,Zamfara Central,NG03701,Zamfara,NG037,Nigeria,NG,357162
+Tsanyawa,NG020040,Tsanyawa,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,213520
+Tudun Wada,NG020041,Tudun Wada,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,313810
+Tureta,NG034020,Tureta,<Null>,<Null>,Sokoto South,NG03403,Sokoto,NG034,Nigeria,NG,90241
+Udenu,NG014015,Udenu,<Null>,<Null>,Enugu North,NG01401,Enugu,NG014,Nigeria,NG,235556
+Udi,NG014016,Udi,<Null>,<Null>,Enugu West,NG01403,Enugu,NG014,Nigeria,NG,308857
+Udu,NG010018,Udu,<Null>,<Null>,Delta Central,NG01001,Delta,NG010,Nigeria,NG,192487
+Udung Uko,NG003027,Udung Uko,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,72759
+Ughelli North,NG010019,Ughelli North,<Null>,<Null>,Delta Central,NG01001,Delta,NG010,Nigeria,NG,431036
+Ughelli South,NG010020,Ughelli South,<Null>,<Null>,Delta Central,NG01001,Delta,NG010,Nigeria,NG,286763
+Ugwunagbo,NG001012,Ugwunagbo,<Null>,<Null>,Abia South,NG00103,Abia,NG001,Nigeria,NG,106252
+Uhunmwonde,NG012018,Uhunmwonde,<Null>,<Null>,Edo South,NG01201,Edo,NG012,Nigeria,NG,155374
+Ukanafun,NG003028,Ukanafun,<Null>,<Null>,Akwa Ibom North West,NG00302,Akwa Ibom,NG003,Nigeria,NG,173482
+Ukum,NG007021,Ukum,<Null>,<Null>,Benue North East,NG00701,Benue,NG007,Nigeria,NG,286324
+Ukwa East,NG001013,Ukwa East,<Null>,<Null>,Abia South,NG00103,Abia,NG001,Nigeria,NG,75704
+Ukwa West,NG001014,Ukwa West,<Null>,<Null>,Abia South,NG00103,Abia,NG001,Nigeria,NG,113888
+Ukwuani,NG010021,Ukwuani,<Null>,<Null>,Delta North,NG01002,Delta,NG010,Nigeria,NG,161645
+Umu-Nneochi,NG001017,Umu-Nneochi,<Null>,<Null>,Abia North,NG00102,Abia,NG001,Nigeria,NG,210823
+Umuahia North,NG001015,Umuahia North,<Null>,<Null>,Abia Central,NG00101,Abia,NG001,Nigeria,NG,283784
+Umuahia South,NG001016,Umuahia South,<Null>,<Null>,Abia Central,NG00101,Abia,NG001,Nigeria,NG,178210
+Ungogo,NG020042,Ungogo,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,500566
+Unuimo,NG017027,Unuimo,<Null>,<Null>,Imo North,NG01702,Imo,NG017,Nigeria,NG,133256
+Uruan,NG003029,Uruan,<Null>,<Null>,Akwa Ibom North East,NG00301,Akwa Ibom,NG003,Nigeria,NG,161556
+Urue-Offong/Oruko,NG003030,Urue-Offong/Oruko,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,97178
+Ushongo,NG007022,Ushongo,<Null>,<Null>,Benue North East,NG00701,Benue,NG007,Nigeria,NG,248590
+Ussa,NG035013,Ussa,<Null>,<Null>,Taraba South,NG03503,Taraba,NG035,Nigeria,NG,120411
+Uvwie,NG010022,Uvwie,<Null>,<Null>,Delta Central,NG01001,Delta,NG010,Nigeria,NG,257085
+Uyo,NG003031,Uyo,<Null>,<Null>,Akwa Ibom North East,NG00301,Akwa Ibom,NG003,Nigeria,NG,422767
+Uzo-Uwani,NG014017,Uzo-Uwani,<Null>,<Null>,Enugu North,NG01401,Enugu,NG014,Nigeria,NG,164300
+Vandeikya,NG007023,Vandeikya,<Null>,<Null>,Benue North East,NG00701,Benue,NG007,Nigeria,NG,303734
+Wamako,NG034021,Wamako,<Null>,<Null>,Sokoto North,NG03402,Sokoto,NG034,Nigeria,NG,237078
+Wamba,NG026013,Wamba,<Null>,<Null>,Nassarawa North,NG02602,Nasarawa,NG026,Nigeria,NG,96212
+Warawa,NG020043,Warawa,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,174395
+Warji,NG005019,Warji,<Null>,<Null>,Bauchi Central,NG00501,Bauchi,NG005,Nigeria,NG,156667
+Warri North,NG010023,Warri North,<Null>,<Null>,Delta South,NG01003,Delta,NG010,Nigeria,NG,184349
+Warri South,NG010024,Warri South,<Null>,<Null>,Delta South,NG01003,Delta,NG010,Nigeria,NG,407390
+Warri South West,NG010025,Warri South West,<Null>,<Null>,Delta South,NG01003,Delta,NG010,Nigeria,NG,156665
+Wasagu/Danko,NG022019,Wasagu/Danko,<Null>,<Null>,Kebbi South,NG02203,Kebbi,NG022,Nigeria,NG,353054
+Wase,NG032017,Wase,<Null>,<Null>,Plateau South,NG03203,Plateau,NG032,Nigeria,NG,207975
+Wudil,NG020044,Wudil,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,250771
+Wukari,NG035014,Wukari,<Null>,<Null>,Taraba South,NG03503,Taraba,NG035,Nigeria,NG,316080
+Wurno,NG034022,Wurno,<Null>,<Null>,Sokoto East,NG03401,Sokoto,NG034,Nigeria,NG,214228
+Wushishi,NG027025,Wushishi,<Null>,<Null>,Niger North,NG02702,Niger,NG027,Nigeria,NG,111686
+Yabo,NG034023,Yabo,<Null>,<Null>,Sokoto South,NG03403,Sokoto,NG034,Nigeria,NG,151802
+Yagba East,NG023020,Yagba East,<Null>,<Null>,Kogi West,NG02303,Kogi,NG023,Nigeria,NG,196694
+Yagba West,NG023021,Yagba West,<Null>,<Null>,Kogi West,NG02303,Kogi,NG023,Nigeria,NG,184983
+Yakurr,NG009018,Yakurr,<Null>,<Null>,Cross River Central,NG00901,Cross River,NG009,Nigeria,NG,257069
+Yala,NG009019,Yala,<Null>,<Null>,Cross River North,NG00902,Cross River,NG009,Nigeria,NG,275903
+Yamaltu/Deba,NG016011,Yamaltu/Deba,<Null>,<Null>,Gombe Central,NG01601,Gombe,NG016,Nigeria,NG,342715
+Yankwashi,NG018027,Yankwashi,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,125307
+Yauri,NG022020,Yauri,<Null>,<Null>,Kebbi South,NG02203,Kebbi,NG022,Nigeria,NG,132829
+Yenegoa,NG006008,Yenegoa,<Null>,<Null>,Bayelsa Central,NG00601,Bayelsa,NG006,Nigeria,NG,462376
+Yola North,NG002020,Yola North,<Null>,<Null>,Adamawa Central,NG00201,Adamawa,NG002,Nigeria,NG,259420
+Yola South,NG002021,Yola South,<Null>,<Null>,Adamawa Central,NG00201,Adamawa,NG002,Nigeria,NG,254657
+Yorro,NG035015,Yorro,<Null>,<Null>,Taraba North,NG03502,Taraba,NG035,Nigeria,NG,116999
+Yunusari,NG036016,Yunusari,<Null>,<Null>,Yobe East,NG03601,Yobe,NG036,Nigeria,NG,173281
+Yusufari,NG036017,Yusufari,<Null>,<Null>,Yobe North,NG03602,Yobe,NG036,Nigeria,NG,152988
+Zaki,NG005020,Zaki,<Null>,<Null>,Bauchi North,NG00502,Bauchi,NG005,Nigeria,NG,261462
+Zango,NG021034,Zango,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,204244
+Zango-Kataf,NG019022,Zango-Kataf,<Null>,<Null>,Kaduna South,NG01903,Kaduna,NG019,Nigeria,NG,417574
+Zaria,NG019023,Zaria,<Null>,<Null>,Kaduna North,NG01902,Kaduna,NG019,Nigeria,NG,538777
+Zing,NG035016,Zing,<Null>,<Null>,Taraba North,NG03502,Taraba,NG035,Nigeria,NG,166663
+Zurmi,NG037014,Zurmi,<Null>,<Null>,Zamfara North,NG03702,Zamfara,NG037,Nigeria,NG,394527
+Zuru,NG022021,Zuru,<Null>,<Null>,Kebbi South,NG02203,Kebbi,NG022,Nigeria,NG,220386
